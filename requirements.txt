@@ -1,0 +1,6 @@
+onnx
+onnxruntime
+torch
+pandas
+simpletransformers
+optimum
