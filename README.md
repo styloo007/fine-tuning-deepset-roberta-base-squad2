@@ -39,3 +39,4 @@ pip install -r requirements.txt
 
 Use the Custom Dataset ( sampledataset.json) or create on of similar format.
 
+### Refer to simpletransformers.ai for more on finetuning of bert and similar models
