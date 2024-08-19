@@ -1,0 +1,4872 @@
+train_data=[
+    {
+        "context": "ELGi’s High Pressure Reciprocating Air Compressors, established in 1960, designs and manufactures a wide range of air compressors. ELGi reciprocating compressor has been our DNA. Over the years, it has emerged as a multi-product, multi-market enterprise providing total compressed air solutions in all segments. ELGi’s design capabilities translated into a wide range of products ranging from oil-lubricated and oil-free rotary screw compressors, reciprocating compressors and centrifugal compressors. ELGi has its own manufacturing operations in India, Italy, and USA with subsidiaries in Australia, Brazil, UAE, and Indonesia. The company is fast expanding its global footprint attracting distributors and customers with its latest generation products.",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": False,
+                "question": "When was ELGi established?",
+                "answers": [
+                    {
+                        "text": "1960",
+                        "answer_start": 83
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": False,
+                "question": "What is the primary product mentioned in the context?",
+                "answers": [
+                    {
+                        "text": "High Pressure Reciprocating Air Compressors",
+                        "answer_start": 6
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": False,
+                "question": "In which countries does ELGi have manufacturing operations?",
+                "answers": [
+                    {
+                        "text": "India, Italy, and USA",
+                        "answer_start": 336
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": False,
+                "question": "What types of compressors does ELGi design?",
+                "answers": [
+                    {
+                        "text": "oil-lubricated and oil-free rotary screw compressors, reciprocating compressors and centrifugal compressors",
+                        "answer_start": 222
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": False,
+                "question": "Which countries have ELGi subsidiaries?",
+                "answers": [
+                    {
+                        "text": "Australia, Brazil, UAE, and Indonesia",
+                        "answer_start": 363
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "A Tradition of Reliability. For so many of our customers, seeing is believing. They know a quality-built machine when they see it. That’s why every part on a ELGi compressor is a quality part. This speaks to the engineering and design of our products. Our R&D is dedicated to designing machines that run cooler, cleaner and longer... that are easy to service... with longer service intervals. Here is where we back our pledge, Our industry leading warranties, parts availability and call centers staffed by experts assure peace-of-mind to our customers.",
+        "qas": [
+            {
+                "id": "00006",
+                "is_impossible": False,
+                "question": "What is the tradition of ELGi?",
+                "answers": [
+                    {
+                        "text": "Reliability",
+                        "answer_start": 15
+                    }
+                ]
+            },
+            {
+                "id": "00007",
+                "is_impossible": False,
+                "question": "What do ELGi's customers know when they see a quality-built machine?",
+                "answers": [
+                    {
+                        "text": "every part on a ELGi compressor is a quality part",
+                        "answer_start": 124
+                    }
+                ]
+            },
+            {
+                "id": "00008",
+                "is_impossible": False,
+                "question": "What is the focus of ELGi's R&D?",
+                "answers": [
+                    {
+                        "text": "designing machines that run cooler, cleaner and longer... that are easy to service... with longer service intervals",
+                        "answer_start": 206
+                    }
+                ]
+            },
+            {
+                "id": "00009",
+                "is_impossible": False,
+                "question": "What kind of warranties does ELGi provide?",
+                "answers": [
+                    {
+                        "text": "industry leading warranties",
+                        "answer_start": 337
+                    }
+                ]
+            },
+            {
+                "id": "00010",
+                "is_impossible": False,
+                "question": "What assures peace-of-mind to ELGi's customers?",
+                "answers": [
+                    {
+                        "text": "parts availability and call centers staffed by experts",
+                        "answer_start": 358
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Innovative Technology. True to the leadership position it aspires, ELGi has through the decades maintained a technological edge in the air compressor market with incremental and breakthrough innovation, through incorporation of latest technologies in its products. ELGi is known in the industry for providing custom-engineered solutions to meet our clients’ needs. The company collaborates with clients to understand their changing needs and designs solutions accordingly. Long-term partnering has been our key differentiating factor.",
+        "qas": [
+            {
+                "id": "00011",
+                "is_impossible": False,
+                "question": "What position does ELGi aspire to?",
+                "answers": [
+                    {
+                        "text": "leadership position",
+                        "answer_start": 34
+                    }
+                ]
+            },
+            {
+                "id": "00012",
+                "is_impossible": False,
+                "question": "How has ELGi maintained its technological edge?",
+                "answers": [
+                    {
+                        "text": "with incremental and breakthrough innovation, through incorporation of latest technologies in its products",
+                        "answer_start": 90
+                    }
+                ]
+            },
+            {
+                "id": "00013",
+                "is_impossible": False,
+                "question": "What is ELGi known for in the industry?",
+                "answers": [
+                    {
+                        "text": "providing custom-engineered solutions to meet our clients’ needs",
+                        "answer_start": 185
+                    }
+                ]
+            },
+            {
+                "id": "00014",
+                "is_impossible": False,
+                "question": "What does ELGi do to understand clients' needs?",
+                "answers": [
+                    {
+                        "text": "collaborates with clients to understand their changing needs",
+                        "answer_start": 226
+                    }
+                ]
+            },
+            {
+                "id": "00015",
+                "is_impossible": False,
+                "question": "What has been ELGi's key differentiating factor?",
+                "answers": [
+                    {
+                        "text": "Long-term partnering",
+                        "answer_start": 276
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "ELGi’s exclusive PET compressor range is ideally suited for PET blowing application which operate with one or more PET blowing machines and offers a low cost of ownership and very high UPTIME. The compressors are designed for operator and plant safety with OSHA standards with twin sided belt guard, sealed safety valves as the compressors operate at higher pressures. ELGi offers these compressors with a host of ELGi ‘Airmate’ downstream accessories such as Pre and after filters, oil and moisture separators, refrigerant dryers and vertical air receivers designed to ASME standards.",
+        "qas": [
+            {
+                "id": "00016",
+                "is_impossible": False,
+                "question": "What is the ELGi PET compressor range ideally suited for?",
+                "answers": [
+                    {
+                        "text": "PET blowing application",
+                        "answer_start": 43
+                    }
+                ]
+            },
+            {
+                "id": "00017",
+                "is_impossible": False,
+                "question": "What does the ELGi PET compressor range offer?",
+                "answers": [
+                    {
+                        "text": "a low cost of ownership and very high UPTIME",
+                        "answer_start": 100
+                    }
+                ]
+            },
+            {
+                "id": "00018",
+                "is_impossible": False,
+                "question": "For what safety standards are the compressors designed?",
+                "answers": [
+                    {
+                        "text": "OSHA standards",
+                        "answer_start": 170
+                    }
+                ]
+            },
+            {
+                "id": "00019",
+                "is_impossible": False,
+                "question": "What accessories does ELGi offer with these compressors?",
+                "answers": [
+                    {
+                        "text": "Pre and after filters, oil and moisture separators, refrigerant dryers and vertical air receivers",
+                        "answer_start": 290
+                    }
+                ]
+            },
+            {
+                "id": "00020",
+                "is_impossible": False,
+                "question": "To what standards are the vertical air receivers designed?",
+                "answers": [
+                    {
+                        "text": "ASME standards",
+                        "answer_start": 355
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Technical Specification: ELGi PET High Pressure Reciprocating Air Compressor. Note: 1. * Without electrical. 2. Free air delivery in accordance with IS5456. 3. Due to continuous improvements, specifications are subject to change. 4. The pictures shown in this brochure are representative and not the entire range. Technical Specification: High Pressure Lubricated Reciprocating Air Compressors, Capacity: 3.37 - 60 m3/min, Maximum Working Pressure: 30 bar, Nominal Motor Power: 30 - 400 kW, Working Pressure Range: 15 - 40 bar, Nominal Motor Power: 20 - 200 kW.",
+        "qas": [
+            {
+                "id": "00021",
+                "is_impossible": False,
+                "question": "What is the capacity range of ELGi High Pressure Lubricated Reciprocating Air Compressors?",
+                "answers": [
+                    {
+                        "text": "3.37 - 60 m3/min",
+                        "answer_start": 264
+                    }
+                ]
+            },
+            {
+                "id": "00022",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of these compressors?",
+                "answers": [
+                    {
+                        "text": "30 bar",
+                        "answer_start": 297
+                    }
+                ]
+            },
+            {
+                "id": "00023",
+                "is_impossible": False,
+                "question": "What is the nominal motor power range?",
+                "answers": [
+                    {
+                        "text": "30 - 400 kW",
+                        "answer_start": 318
+                    }
+                ]
+            },
+            {
+                "id": "00024",
+                "is_impossible": False,
+                "question": "What is the working pressure range?",
+                "answers": [
+                    {
+                        "text": "15 - 40 bar",
+                        "answer_start": 357
+                    }
+                ]
+            },
+            {
+                "id": "00025",
+                "is_impossible": False,
+                "question": "What is the nominal motor power for the working pressure range of 15 - 40 bar?",
+                "answers": [
+                    {
+                        "text": "20 - 200 kW",
+                        "answer_start": 386
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "ELGi’s High Pressure Reciprocating Air Compressors, established in 1960, designs and manufactures a wide range of air compressors. ELGi reciprocating compressor has been our DNA. Over the years, it has emerged as a multi-product, multi-market enterprise providing total compressed air solutions in all segments. ELGi’s design capabilities translated into a wide range of products ranging from oil-lubricated and oil-free rotary screw compressors, reciprocating compressors and centrifugal compressors. ELGi has its own manufacturing operations in India, Italy, and USA with subsidiaries in Australia, Brazil, UAE, and Indonesia. The company is fast expanding its global footprint attracting distributors and customers with its latest generation products.",
+        "qas": [
+            {
+                "id": "00026",
+                "is_impossible": False,
+                "question": "What has been the core product of ELGi over the years?",
+                "answers": [
+                    {
+                        "text": "reciprocating compressor",
+                        "answer_start": 101
+                    }
+                ]
+            },
+            {
+                "id": "00027",
+                "is_impossible": False,
+                "question": "What has ELGi emerged as over the years?",
+                "answers": [
+                    {
+                        "text": "a multi-product, multi-market enterprise providing total compressed air solutions in all segments",
+                        "answer_start": 146
+                    }
+                ]
+            },
+            {
+                "id": "00028",
+                "is_impossible": False,
+                "question": "What has attracted distributors and customers to ELGi?",
+                "answers": [
+                    {
+                        "text": "latest generation products",
+                        "answer_start": 455
+                    }
+                ]
+            },
+            {
+                "id": "00035",
+                "is_impossible": False,
+                "question": "What does ELGi's global footprint include?",
+                "answers": [
+                    {
+                        "text": "manufacturing operations in India, Italy, and USA with subsidiaries in Australia, Brazil, UAE, and Indonesia",
+                        "answer_start": 336
+                    }
+                ]
+            },
+            {
+                "id": "00036",
+                "is_impossible": False,
+                "question": "What are the different types of compressors ELGi offers?",
+                "answers": [
+                    {
+                        "text": "oil-lubricated and oil-free rotary screw compressors, reciprocating compressors and centrifugal compressors",
+                        "answer_start": 222
+                    }
+                ]
+            },
+            {
+                "id": "00037",
+                "is_impossible": False,
+                "question": "How is ELGi expanding its global presence?",
+                "answers": [
+                    {
+                        "text": "attracting distributors and customers with its latest generation products",
+                        "answer_start": 442
+                    }
+                ]
+            },
+            {
+                "id": "00038",
+                "is_impossible": False,
+                "question": "What segment does ELGi provide solutions for?",
+                "answers": [
+                    {
+                        "text": "all segments",
+                        "answer_start": 197
+                    }
+                ]
+            },
+            {
+                "id": "00039",
+                "is_impossible": False,
+                "question": "What is ELGi's approach to design and manufacturing?",
+                "answers": [
+                    {
+                        "text": "designs and manufactures a wide range of air compressors",
+                        "answer_start": 90
+                    }
+                ]
+            },
+            {
+                "id": "00040",
+                "is_impossible": False,
+                "question": "What demonstrates ELGi's design capabilities?",
+                "answers": [
+                    {
+                        "text": "a wide range of products ranging from oil-lubricated and oil-free rotary screw compressors, reciprocating compressors and centrifugal compressors",
+                        "answer_start": 206
+                    }
+                ]
+            },
+            {
+                "id": "00041",
+                "is_impossible": False,
+                "question": "What year was ELGi established?",
+                "answers": [
+                    {
+                        "text": "1960",
+                        "answer_start": 83
+                    }
+                ]
+            },
+            {
+                "id": "00042",
+                "is_impossible": False,
+                "question": "What kind of enterprise has ELGi become over the years?",
+                "answers": [
+                    {
+                        "text": "multi-product, multi-market enterprise providing total compressed air solutions",
+                        "answer_start": 146
+                    }
+                ]
+            },
+            {
+                "id": "00043",
+                "is_impossible": False,
+                "question": "What is ELGi's DNA?",
+                "answers": [
+                    {
+                        "text": "reciprocating compressor",
+                        "answer_start": 101
+                    }
+                ]
+            },
+            {
+                "id": "00044",
+                "is_impossible": False,
+                "question": "Which markets is ELGi expanding into?",
+                "answers": [
+                    {
+                        "text": "global footprint attracting distributors and customers",
+                        "answer_start": 436
+                    }
+                ]
+            },
+            {
+                "id": "00045",
+                "is_impossible": False,
+                "question": "Where are ELGi's subsidiaries located?",
+                "answers": [
+                    {
+                        "text": "Australia, Brazil, UAE, and Indonesia",
+                        "answer_start": 363
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "A Tradition of Reliability. For so many of our customers, seeing is believing. They know a quality-built machine when they see it. That’s why every part on a ELGi compressor is a quality part. This speaks to the engineering and design of our products. Our R&D is dedicated to designing machines that run cooler, cleaner and longer... that are easy to service... with longer service intervals. Here is where we back our pledge, Our industry leading warranties, parts availability and call centers staffed by experts assure peace-of-mind to our customers.",
+        "qas": [
+            {
+                "id": "00046",
+                "is_impossible": False,
+                "question": "What makes ELGi machines easy to service?",
+                "answers": [
+                    {
+                        "text": "longer service intervals",
+                        "answer_start": 266
+                    }
+                ]
+            },
+            {
+                "id": "00047",
+                "is_impossible": False,
+                "question": "Who staffs the call centers for ELGi?",
+                "answers": [
+                    {
+                        "text": "experts",
+                        "answer_start": 389
+                    }
+                ]
+            },
+            {
+                "id": "00048",
+                "is_impossible": False,
+                "question": "What is the pledge that ELGi backs?",
+                "answers": [
+                    {
+                        "text": "industry leading warranties, parts availability and call centers staffed by experts assure peace-of-mind to our customers",
+                        "answer_start": 321
+                    }
+                ]
+            },
+            {
+                "id": "00049",
+                "is_impossible": False,
+                "question": "What do customers recognize in ELGi's machines?",
+                "answers": [
+                    {
+                        "text": "a quality-built machine",
+                        "answer_start": 73
+                    }
+                ]
+            },
+            {
+                "id": "00050",
+                "is_impossible": False,
+                "question": "What aspect of ELGi's products does the engineering and design focus on?",
+                "answers": [
+                    {
+                        "text": "quality",
+                        "answer_start": 116
+                    }
+                ]
+            },
+            {
+                "id": "00051",
+                "is_impossible": False,
+                "question": "What is the dedication of ELGi's R&D?",
+                "answers": [
+                    {
+                        "text": "designing machines that run cooler, cleaner and longer",
+                        "answer_start": 206
+                    }
+                ]
+            },
+            {
+                "id": "00052",
+                "is_impossible": False,
+                "question": "How do ELGi's machines run?",
+                "answers": [
+                    {
+                        "text": "cooler, cleaner and longer",
+                        "answer_start": 233
+                    }
+                ]
+            },
+            {
+                "id": "00053",
+                "is_impossible": False,
+                "question": "What does ELGi assure to its customers?",
+                "answers": [
+                    {
+                        "text": "peace-of-mind",
+                        "answer_start": 410
+                    }
+                ]
+            },
+            {
+                "id": "00054",
+                "is_impossible": False,
+                "question": "What are the intervals like for servicing ELGi machines?",
+                "answers": [
+                    {
+                        "text": "longer service intervals",
+                        "answer_start": 266
+                    }
+                ]
+            },
+            {
+                "id": "00055",
+                "is_impossible": False,
+                "question": "What does ELGi provide through its call centers?",
+                "answers": [
+                    {
+                        "text": "assure peace-of-mind to our customers",
+                        "answer_start": 379
+                    }
+                ]
+            },
+            {
+                "id": "00056",
+                "is_impossible": False,
+                "question": "What do the industry leading warranties cover?",
+                "answers": [
+                    {
+                        "text": "parts availability",
+                        "answer_start": 354
+                    }
+                ]
+            },
+            {
+                "id": "00057",
+                "is_impossible": False,
+                "question": "What do ELGi's customers appreciate in their compressors?",
+                "answers": [
+                    {
+                        "text": "quality part",
+                        "answer_start": 136
+                    }
+                ]
+            },
+            {
+                "id": "00058",
+                "is_impossible": False,
+                "question": "What type of products does ELGi focus on designing?",
+                "answers": [
+                    {
+                        "text": "machines that run cooler, cleaner and longer",
+                        "answer_start": 217
+                    }
+                ]
+            },
+            {
+                "id": "00059",
+                "is_impossible": False,
+                "question": "What speaks to the engineering and design of ELGi's products?",
+                "answers": [
+                    {
+                        "text": "quality part",
+                        "answer_start": 136
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Innovative Technology. True to the leadership position it aspires, ELGi has through the decades maintained a technological edge in the air compressor market with incremental and breakthrough innovation, through incorporation of latest technologies in its products. ELGi is known in the industry for providing custom-engineered solutions to meet our clients’ needs. The company collaborates with clients to understand their changing needs and designs solutions accordingly. Long-term partnering has been our key differentiating factor.",
+        "qas": [
+            {
+                "id": "00060",
+                "is_impossible": False,
+                "question": "How does ELGi meet clients' needs?",
+                "answers": [
+                    {
+                        "text": "collaborates with clients to understand their changing needs and designs solutions accordingly",
+                        "answer_start": 226
+                    }
+                ]
+            },
+            {
+                "id": "00061",
+                "is_impossible": False,
+                "question": "What has ELGi maintained in the air compressor market?",
+                "answers": [
+                    {
+                        "text": "a technological edge",
+                        "answer_start": 66
+                    }
+                ]
+            },
+            {
+                "id": "00062",
+                "is_impossible": False,
+                "question": "What does ELGi's long-term partnering help achieve?",
+                "answers": [
+                    {
+                        "text": "key differentiating factor",
+                        "answer_start": 300
+                    }
+                ]
+            },
+            {
+                "id": "00063",
+                "is_impossible": False,
+                "question": "What does ELGi aspire to?",
+                "answers": [
+                    {
+                        "text": "leadership position",
+                        "answer_start": 34
+                    }
+                ]
+            },
+            {
+                "id": "00064",
+                "is_impossible": False,
+                "question": "How has ELGi maintained its edge in the market?",
+                "answers": [
+                    {
+                        "text": "through incremental and breakthrough innovation",
+                        "answer_start": 105
+                    }
+                ]
+            },
+            {
+                "id": "00065",
+                "is_impossible": False,
+                "question": "What kind of technological edge has ELGi maintained?",
+                "answers": [
+                    {
+                        "text": "technological edge in the air compressor market",
+                        "answer_start": 66
+                    }
+                ]
+            },
+            {
+                "id": "00066",
+                "is_impossible": False,
+                "question": "What kind of innovation does ELGi focus on?",
+                "answers": [
+                    {
+                        "text": "incremental and breakthrough innovation",
+                        "answer_start": 105
+                    }
+                ]
+            },
+            {
+                "id": "00067",
+                "is_impossible": False,
+                "question": "What does ELGi incorporate into its products?",
+                "answers": [
+                    {
+                        "text": "latest technologies",
+                        "answer_start": 148
+                    }
+                ]
+            },
+            {
+                "id": "00068",
+                "is_impossible": False,
+                "question": "What is a key differentiating factor for ELGi?",
+                "answers": [
+                    {
+                        "text": "Long-term partnering",
+                        "answer_start": 276
+                    }
+                ]
+            },
+            {
+                "id": "00069",
+                "is_impossible": False,
+                "question": "What has been ELGi's key differentiating factor?",
+                "answers": [
+                    {
+                        "text": "Long-term partnering",
+                        "answer_start": 276
+                    }
+                ]
+            },
+            {
+                "id": "00070",
+                "is_impossible": False,
+                "question": "What does ELGi aim to maintain through its innovation?",
+                "answers": [
+                    {
+                        "text": "a technological edge in the air compressor market",
+                        "answer_start": 66
+                    }
+                ]
+            },
+            {
+                "id": "00071",
+                "is_impossible": False,
+                "question": "What type of solutions is ELGi known for providing?",
+                "answers": [
+                    {
+                        "text": "custom-engineered solutions",
+                        "answer_start": 185
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "ELGi’s products are designed to ensure maximum uptime and reliability. The compressors come with various features including energy-efficient motors, advanced controllers, robust enclosures, and high-quality air ends. ELGi’s portfolio includes both oil-lubricated and oil-free models, with varying capacities and power outputs. These compressors are used across diverse industries such as manufacturing, food and beverage, pharmaceuticals, and automotive. ELGi also provides accessories and spare parts to ensure optimal performance and longevity of their products.",
+        "qas": [
+            {
+                "id": "00072",
+                "is_impossible": False,
+                "question": "What are the enclosures of ELGi compressors like?",
+                "answers": [
+                    {
+                        "text": "robust enclosures",
+                        "answer_start": 145
+                    }
+                ]
+            },
+            {
+                "id": "00073",
+                "is_impossible": False,
+                "question": "What type of air ends do ELGi compressors have?",
+                "answers": [
+                    {
+                        "text": "high-quality air ends",
+                        "answer_start": 165
+                    }
+                ]
+            },
+            {
+                "id": "00074",
+                "is_impossible": False,
+                "question": "What types of models are included in ELGi’s portfolio?",
+                "answers": [
+                    {
+                        "text": "oil-lubricated and oil-free models",
+                        "answer_start": 201
+                    }
+                ]
+            },
+            {
+                "id": "00075",
+                "is_impossible": False,
+                "question": "What industries use ELGi compressors?",
+                "answers": [
+                    {
+                        "text": "manufacturing, food and beverage, pharmaceuticals, and automotive",
+                        "answer_start": 263
+                    }
+                ]
+            },
+            {
+                "id": "00076",
+                "is_impossible": False,
+                "question": "What additional products does ELGi provide to ensure optimal performance?",
+                "answers": [
+                    {
+                        "text": "accessories and spare parts",
+                        "answer_start": 324
+                    }
+                ]
+            },
+            {
+                "id": "00077",
+                "is_impossible": False,
+                "question": "What capacities do ELGi compressors come in?",
+                "answers": [
+                    {
+                        "text": "varying capacities",
+                        "answer_start": 230
+                    }
+                ]
+            },
+            {
+                "id": "00078",
+                "is_impossible": False,
+                "question": "What power outputs do ELGi compressors offer?",
+                "answers": [
+                    {
+                        "text": "varying power outputs",
+                        "answer_start": 249
+                    }
+                ]
+            },
+            {
+                "id": "00079",
+                "is_impossible": False,
+                "question": "What is the purpose of the robust enclosures in ELGi compressors?",
+                "answers": [
+                    {
+                        "text": "to ensure maximum uptime and reliability",
+                        "answer_start": 26
+                    }
+                ]
+            },
+            {
+                "id": "00080",
+                "is_impossible": False,
+                "question": "Why are high-quality air ends important in ELGi compressors?",
+                "answers": [
+                    {
+                        "text": "to ensure maximum uptime and reliability",
+                        "answer_start": 26
+                    }
+                ]
+            },
+            {
+                "id": "00081",
+                "is_impossible": False,
+                "question": "How do energy-efficient motors benefit ELGi compressors?",
+                "answers": [
+                    {
+                        "text": "ensure optimal performance and longevity",
+                        "answer_start": 351
+                    }
+                ]
+            },
+            {
+                "id": "00082",
+                "is_impossible": False,
+                "question": "What role do advanced controllers play in ELGi compressors?",
+                "answers": [
+                    {
+                        "text": "ensure optimal performance and longevity",
+                        "answer_start": 351
+                    }
+                ]
+            },
+            {
+                "id": "00083",
+                "is_impossible": False,
+                "question": "Which industries benefit from using oil-free models of ELGi compressors?",
+                "answers": [
+                    {
+                        "text": "food and beverage, pharmaceuticals",
+                        "answer_start": 277
+                    }
+                ]
+            },
+            {
+                "id": "00084",
+                "is_impossible": False,
+                "question": "What types of spare parts does ELGi provide?",
+                "answers": [
+                    {
+                        "text": "high-quality air ends",
+                        "answer_start": 165
+                    }
+                ]
+            },
+            {
+                "id": "00085",
+                "is_impossible": False,
+                "question": "How do ELGi compressors ensure optimal performance?",
+                "answers": [
+                    {
+                        "text": "through accessories and spare parts",
+                        "answer_start": 324
+                    }
+                ]
+            },
+            {
+                "id": "00086",
+                "is_impossible": False,
+                "question": "What kind of enclosures do ELGi compressors have?",
+                "answers": [
+                    {
+                        "text": "robust enclosures",
+                        "answer_start": 145
+                    }
+                ]
+            },
+            {
+                "id": "00087",
+                "is_impossible": False,
+                "question": "What additional products does ELGi offer besides compressors?",
+                "answers": [
+                    {
+                        "text": "accessories and spare parts",
+                        "answer_start": 324
+                    }
+                ]
+            },
+            {
+                "id": "00088",
+                "is_impossible": False,
+                "question": "What are the benefits of using high-quality air ends in ELGi compressors?",
+                "answers": [
+                    {
+                        "text": "to ensure maximum uptime and reliability",
+                        "answer_start": 26
+                    }
+                ]
+            },
+            {
+                "id": "00089",
+                "is_impossible": False,
+                "question": "Why are robust enclosures important in ELGi compressors?",
+                "answers": [
+                    {
+                        "text": "ensure maximum uptime and reliability",
+                        "answer_start": 26
+                    }
+                ]
+            },
+            {
+                "id": "00090",
+                "is_impossible": False,
+                "question": "What types of models are included in ELGi’s portfolio?",
+                "answers": [
+                    {
+                        "text": "oil-lubricated and oil-free models",
+                        "answer_start": 201
+                    }
+                ]
+            },
+            {
+                "id": "00091",
+                "is_impossible": False,
+                "question": "How do energy-efficient motors impact the performance of ELGi compressors?",
+                "answers": [
+                    {
+                        "text": "ensure optimal performance and longevity",
+                        "answer_start": 351
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "ELGi's PET compressor range is designed for PET blowing applications, offering low cost of ownership and high uptime.",
+        "qas": [
+            {
+                "id": "00092",
+                "is_impossible": False,
+                "question": "What is the application of ELGi's PET compressor range?",
+                "answers": [
+                    {
+                        "text": "PET blowing applications",
+                        "answer_start": 35,
+                    }
+                ],
+            }
+        ],
+    },
+    {
+        "context": "The compressors are designed with OSHA standards and feature twin-sided belt guards and sealed safety valves.",
+        "qas": [
+            {
+                "id": "00093",
+                "is_impossible": False,
+                "question": "What safety features do the compressors have?",
+                "answers": [
+                    {
+                        "text": "twin-sided belt guards and sealed safety valves",
+                        "answer_start": 35,
+                    }
+                ],
+            }
+        ],
+    },
+    {
+        "context": "ELGi offers a range of high-pressure compressors for various applications, including PET blowing, plastic and packaging industry, gen-set starting, circuit breaking, power plants, and testing labs.",
+        "qas": [
+            {
+                "id": "00094",
+                "is_impossible": False,
+                "question": "What are the various applications of ELGi's high-pressure compressors?",
+                "answers": [
+                    {
+                        "text": "PET blowing, plastic and packaging industry, gen-set starting, circuit breaking, power plants, and testing labs",
+                        "answer_start": 35,
+                    }
+                ],
+            }
+        ],
+    },
+    {
+        "context": "The PET Exclusive High Pressure Reciprocating Compressor has a robust 3-stage high-pressure block for best efficiency.",
+        "qas": [
+            {
+                "id": "00095",
+                "is_impossible": False,
+                "question": "What feature of the PET Exclusive High Pressure Reciprocating Compressor ensures best efficiency?",
+                "answers": [
+                    {
+                        "text": "robust 3-stage high-pressure block",
+                        "answer_start": 35,
+                    }
+                ],
+            }
+        ],
+    },
+    {
+        "context": "The compressor has an aluminium piston with piston rings for lower wear and tear and lower oil carryover into the compression chamber.",
+        "qas": [
+            {
+                "id": "00096",
+                "is_impossible": False,
+                "question": "What material is the piston made of?",
+                "answers": [
+                    {
+                        "text": "aluminium",
+                        "answer_start": 35,
+                    }
+                ],
+            }
+        ],
+    },
+    {
+        "context": "The strong and robust crankcase is made of high-grade cast iron.",
+        "qas": [
+            {
+                "id": "00097",
+                "is_impossible": False,
+                "question": "What material is the crankcase made of?",
+                "answers": [
+                    {
+                        "text": "high-grade cast iron",
+                        "answer_start": 35,
+                    }
+                ],
+            }
+        ],
+    },
+    {
+        "context": "The splash lubrication system ensures proper circulation of oil to all parts of the rotating system.",
+        "qas": [
+            {
+                "id": "00098",
+                "is_impossible": False,
+                "question": "What system ensures proper oil circulation in the compressor?",
+                "answers": [
+                    {
+                        "text": "splash lubrication system",
+                        "answer_start": 35,
+                    }
+                ],
+            }
+        ],
+    },
+    {
+        "context": "High-quality ball bearings and roller bearings ensure optimum load transfer and transmission without causing uneven wear.",
+        "qas": [
+            {
+                "id": "00099",
+                "is_impossible": False,
+                "question": "What type of bearings are used in the compressor?",
+                "answers": [
+                    {
+                        "text": "ball bearings and roller bearings",
+                        "answer_start": 35,
+                    }
+                ],
+            }
+        ],
+    },
+    {
+        "context": "The compressor has a heavy-duty air filter with enhanced life.",
+        "qas": [
+            {
+                "id": "00100",
+                "is_impossible": False,
+                "question": "What feature of the compressor enhances its durability?",
+                "answers": [
+                    {
+                        "text": "heavy-duty air filter with enhanced life",
+                        "answer_start": 35,
+                    }
+                ],
+            }
+        ],
+    },
+    {
+        "context": "The electric motor is heavy-duty, TEFC, CE certified, designed for 50°C ambient with IP55 protection and Class F insulation.",
+        "qas": [
+            {
+                "id": "00101",
+                "is_impossible": False,
+                "question": "What are the features of the electric motor?",
+                "answers": [
+                    {
+                        "text": "heavy-duty, TEFC, CE certified, designed for 50°C ambient with IP55 protection and Class F insulation",
+                        "answer_start": 35,
+                    }
+                ],
+            }
+        ],
+    },
+    {
+        "context": "The compressor has a close-mesh belt guard to prevent accidental injury to the operator as per international safety norms.",
+        "qas": [
+            {
+                "id": "00102",
+                "is_impossible": False,
+                "question": "What safety feature does the compressor have to prevent accidental injury?",
+                "answers": [
+                    {
+                        "text": "close-mesh belt guard",
+                        "answer_start": 35,
+                    }
+                ],
+            }
+        ],
+    },
+    {
+        "context": "The compressor has a robust air-cooled inter-stage and after-stage copper cooler.",
+        "qas": [
+            {
+                "id": "00103",
+                "is_impossible": False,
+                "question": "What type of cooler does the compressor have?",
+                "answers": [
+                    {
+                        "text": "air-cooled inter-stage and after-stage copper cooler",
+                        "answer_start": 35,
+                    }
+                ],
+            }
+        ],
+    },
+    {
+        "context": "The compressor has a solenoid-controlled automatic bleeding system for smooth starting.",
+        "qas": [
+            {
+                "id": "00104",
+                "is_impossible": False,
+                "question": "What system ensures smooth starting of the compressor?",
+                "answers": [
+                    {
+                        "text": "solenoid-controlled automatic bleeding system",
+                        "answer_start": 35,
+                    }
+                ],
+            }
+        ],
+    },
+    {
+        "context": "The compressor has a 500 Lts high-pressure receiver designed as per ASME standards.",
+        "qas": [
+            {
+                "id": "00105",
+                "is_impossible": False,
+                "question": "What is the capacity of the high-pressure receiver?",
+                "answers": [
+                    {
+                        "text": "500 Lts",
+                        "answer_start": 35,
+                    }
+                ],
+            }
+        ],
+    },
+    {
+        "context": "The compressor has a suction unloader that runs the compressor in un-load mode when there is no demand.",
+        "qas": [
+            {
+                "id": "00106",
+                "is_impossible": False,
+                "question": "What feature of the compressor saves energy when there is no demand?",
+                "answers": [
+                    {
+                        "text": "suction unloader",
+                        "answer_start": 35,
+                    }
+                ],
+            }
+        ],
+    },
+    {
+        "context": "The compressor has a dual operation mode (load/un-load and on/off) at a single touch.",
+        "qas": [
+            {
+                "id": "00107",
+                "is_impossible": False,
+                "question": "What feature of the compressor allows for easy operation mode switching?",
+                "answers": [
+                    {
+                        "text": "dual operation mode",
+                        "answer_start": 35,
+                    }
+                ],
+            }
+        ],
+    },
+    {
+        "context": "The compressor has double poly V belts with low transmission loss.",
+        "qas": [
+            {
+                "id": "00108",
+                "is_impossible": False,
+                "question": "What type of belts does the compressor have?",
+                "answers": [
+                    {
+                        "text": "double poly V belts",
+                        "answer_start": 35,
+                    }
+                ],
+            }
+        ],
+    },
+    {
+        "context": "The compressor has a 3-piece forged crankshaft and forged connecting rods with high mechanical life.",
+        "qas": [
+            {
+                "id": "00109",
+                "is_impossible": False,
+                "question": "What feature of the compressor ensures high mechanical life?",
+                "answers": [
+                    {
+                        "text": "3-piece forged crankshaft and forged connecting rods",
+                        "answer_start": 35,
+                    }
+                ],
+            }
+        ],
+    },
+    {
+        "context": "The compressor has a heavy-duty TEFC motor with IP55 protection and Class F insulation.",
+        "qas": [
+            {
+                "id": "00110",
+                "is_impossible": False,
+                "question": "What type of motor does the compressor have?",
+                "answers": [
+                    {
+                        "text": "heavy-duty TEFC motor",
+                        "answer_start": 35,
+                    }
+                ],
+            }
+        ],
+    },
+    {
+        "context": "The ELGi MS 20 L B SP is a high-pressure reciprocating air compressor suitable for PET blowing applications.",
+        "qas": [
+            {
+                "id": "111",
+                "is_impossible": False,
+                "question": "What application is the ELGi MS 20 L B SP suited for?",
+                "answers": [
+                    {
+                        "text": "PET blowing applications",
+                        "answer_start": 87,
+                    }
+                ],
+            },
+            {
+                "id": "112",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi MS 20 L B SP?",
+                "answers": [
+                    {
+                        "text": "15.0 HP",
+                        "answer_start": 32,
+                    }
+                ],
+            },
+            {
+                "id": "113",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi MS 20 L B SP?",
+                "answers": [
+                    {
+                        "text": "1048 lpm",
+                        "answer_start": 69,
+                    }
+                ],
+            },
+            {
+                "id": "114",
+                "is_impossible": True,
+                "question": "What is the color of the ELGi MS 20 L B SP?",
+                "answers": [],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 15 L B PET is designed for high pressure and includes a robust three-stage block for efficiency.",
+        "qas": [
+            {
+                "id": "115",
+                "is_impossible": False,
+                "question": "What type of block is used in the ELGi TS 15 L B PET?",
+                "answers": [
+                    {
+                        "text": "Three-stage block",
+                        "answer_start": 63,
+                    }
+                ],
+            },
+            {
+                "id": "116",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi TS 15 L B PET?",
+                "answers": [
+                    {
+                        "text": "11.0 HP",
+                        "answer_start": 32,
+                    }
+                ],
+            },
+            {
+                "id": "117",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi TS 15 L B PET?",
+                "answers": [
+                    {
+                        "text": "1529 bar g",
+                        "answer_start": 100,
+                    }
+                ],
+            },
+            {
+                "id": "118",
+                "is_impossible": True,
+                "question": "What is the color of the ELGi TS 15 L B PET?",
+                "answers": [],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 20 L B PET model features aluminum pistons and a robust crank case made of high-grade cast iron.",
+        "qas": [
+            {
+                "id": "119",
+                "is_impossible": False,
+                "question": "What material are the pistons made of in the ELGi TS 20 L B PET?",
+                "answers": [
+                    {
+                        "text": "Aluminum",
+                        "answer_start": 72,
+                    }
+                ],
+            },
+            {
+                "id": "120",
+                "is_impossible": False,
+                "question": "What is the crank case of the ELGi TS 20 L B PET made of?",
+                "answers": [
+                    {
+                        "text": "High-grade cast iron",
+                        "answer_start": 91,
+                    }
+                ],
+            },
+            {
+                "id": "121",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 20 L B PET?",
+                "answers": [
+                    {
+                        "text": "1538 cfm",
+                        "answer_start": 115,
+                    }
+                ],
+            },
+            {
+                "id": "122",
+                "is_impossible": True,
+                "question": "What is the starting temperature for the ELGi TS 20 L B PET?",
+                "answers": [],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 20 L B HP is equipped with high-quality ball bearings and roller bearings for optimal load transfer.",
+        "qas": [
+            {
+                "id": "123",
+                "is_impossible": False,
+                "question": "What type of bearings are used in the ELGi MS 20 L B HP?",
+                "answers": [
+                    {
+                        "text": "Ball bearings and roller bearings",
+                        "answer_start": 53,
+                    }
+                ],
+            },
+            {
+                "id": "124",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi MS 20 L B HP?",
+                "answers": [
+                    {
+                        "text": "1455 bar g",
+                        "answer_start": 93,
+                    }
+                ],
+            },
+            {
+                "id": "125",
+                "is_impossible": False,
+                "question": "What is the piston displacement of the ELGi MS 20 L B HP?",
+                "answers": [
+                    {
+                        "text": "1150 lpm",
+                        "answer_start": 117,
+                    }
+                ],
+            },
+            {
+                "id": "126",
+                "is_impossible": True,
+                "question": "What is the warranty period for the ELGi MS 20 L B HP?",
+                "answers": [],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 10 L B HP features a robust crankshaft and connecting rods for even throw and smooth operation.",
+        "qas": [
+            {
+                "id": "127",
+                "is_impossible": False,
+                "question": "What features ensure smooth operation in the ELGi TS 10 L B HP?",
+                "answers": [
+                    {
+                        "text": "Robust crankshaft and connecting rods",
+                        "answer_start": 71,
+                    }
+                ],
+            },
+            {
+                "id": "128",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi TS 10 L B HP?",
+                "answers": [
+                    {
+                        "text": "7.5 HP",
+                        "answer_start": 32,
+                    }
+                ],
+            },
+            {
+                "id": "129",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 10 L B HP?",
+                "answers": [
+                    {
+                        "text": "637 cfm",
+                        "answer_start": 114,
+                    }
+                ],
+            },
+            {
+                "id": "130",
+                "is_impossible": True,
+                "question": "What is the air receiver capacity of the ELGi TS 10 L B HP?",
+                "answers": [],
+            },
+        ],
+    },
+
+    {
+        "context": "The ELGi MS 20 L B SP is a high-pressure reciprocating air compressor suitable for PET blowing applications.",
+        "qas": [
+            {
+                "id": "111",
+                "is_impossible": False,
+                "question": "What application is the ELGi MS 20 L B SP suited for?",
+                "answers": [
+                    {
+                        "text": "PET blowing applications",
+                        "answer_start": 87,
+                    }
+                ],
+            },
+            {
+                "id": "112",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi MS 20 L B SP?",
+                "answers": [
+                    {
+                        "text": "15.0 HP",
+                        "answer_start": 32,
+                    }
+                ],
+            },
+            {
+                "id": "113",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi MS 20 L B SP?",
+                "answers": [
+                    {
+                        "text": "1048 lpm",
+                        "answer_start": 69,
+                    }
+                ],
+            },
+            {
+                "id": "114",
+                "is_impossible": True,
+                "question": "What is the color of the ELGi MS 20 L B SP?",
+                "answers": [],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 15 L B PET is designed for high pressure and includes a robust three-stage block for efficiency.",
+        "qas": [
+            {
+                "id": "115",
+                "is_impossible": False,
+                "question": "What type of block is used in the ELGi TS 15 L B PET?",
+                "answers": [
+                    {
+                        "text": "Three-stage block",
+                        "answer_start": 63,
+                    }
+                ],
+            },
+            {
+                "id": "116",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi TS 15 L B PET?",
+                "answers": [
+                    {
+                        "text": "11.0 HP",
+                        "answer_start": 32,
+                    }
+                ],
+            },
+            {
+                "id": "117",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi TS 15 L B PET?",
+                "answers": [
+                    {
+                        "text": "1529 bar g",
+                        "answer_start": 100,
+                    }
+                ],
+            },
+            {
+                "id": "118",
+                "is_impossible": True,
+                "question": "What is the color of the ELGi TS 15 L B PET?",
+                "answers": [],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 20 L B PET model features aluminum pistons and a robust crank case made of high-grade cast iron.",
+        "qas": [
+            {
+                "id": "119",
+                "is_impossible": False,
+                "question": "What material are the pistons made of in the ELGi TS 20 L B PET?",
+                "answers": [
+                    {
+                        "text": "Aluminum",
+                        "answer_start": 72,
+                    }
+                ],
+            },
+            {
+                "id": "120",
+                "is_impossible": False,
+                "question": "What is the crank case of the ELGi TS 20 L B PET made of?",
+                "answers": [
+                    {
+                        "text": "High-grade cast iron",
+                        "answer_start": 91,
+                    }
+                ],
+            },
+            {
+                "id": "121",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 20 L B PET?",
+                "answers": [
+                    {
+                        "text": "1538 cfm",
+                        "answer_start": 115,
+                    }
+                ],
+            },
+            {
+                "id": "122",
+                "is_impossible": True,
+                "question": "What is the starting temperature for the ELGi TS 20 L B PET?",
+                "answers": [],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 20 L B HP is equipped with high-quality ball bearings and roller bearings for optimal load transfer.",
+        "qas": [
+            {
+                "id": "123",
+                "is_impossible": False,
+                "question": "What type of bearings are used in the ELGi MS 20 L B HP?",
+                "answers": [
+                    {
+                        "text": "Ball bearings and roller bearings",
+                        "answer_start": 53,
+                    }
+                ],
+            },
+            {
+                "id": "124",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi MS 20 L B HP?",
+                "answers": [
+                    {
+                        "text": "1455 bar g",
+                        "answer_start": 93,
+                    }
+                ],
+            },
+            {
+                "id": "125",
+                "is_impossible": False,
+                "question": "What is the piston displacement of the ELGi MS 20 L B HP?",
+                "answers": [
+                    {
+                        "text": "1150 lpm",
+                        "answer_start": 117,
+                    }
+                ],
+            },
+            {
+                "id": "126",
+                "is_impossible": True,
+                "question": "What is the warranty period for the ELGi MS 20 L B HP?",
+                "answers": [],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 10 L B HP features a robust crankshaft and connecting rods for even throw and smooth operation.",
+        "qas": [
+            {
+                "id": "127",
+                "is_impossible": False,
+                "question": "What features ensure smooth operation in the ELGi TS 10 L B HP?",
+                "answers": [
+                    {
+                        "text": "Robust crankshaft and connecting rods",
+                        "answer_start": 71,
+                    }
+                ],
+            },
+            {
+                "id": "128",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi TS 10 L B HP?",
+                "answers": [
+                    {
+                        "text": "7.5 HP",
+                        "answer_start": 32,
+                    }
+                ],
+            },
+            {
+                "id": "129",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 10 L B HP?",
+                "answers": [
+                    {
+                        "text": "637 cfm",
+                        "answer_start": 114,
+                    }
+                ],
+            },
+            {
+                "id": "130",
+                "is_impossible": True,
+                "question": "What is the air receiver capacity of the ELGi TS 10 L B HP?",
+                "answers": [],
+            },
+        ],
+    },
+    # New Data
+    {
+        "context": "The ELGi TS 03 L B HP is designed for high pressure applications with a free air delivery of 181 cfm.",
+        "qas": [
+            {
+                "id": "131",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 03 L B HP?",
+                "answers": [
+                    {
+                        "text": "181 cfm",
+                        "answer_start": 66,
+                    }
+                ],
+            },
+            {
+                "id": "132",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi TS 03 L B HP?",
+                "answers": [
+                    {
+                        "text": "2.2 HP",
+                        "answer_start": 32,
+                    }
+                ],
+            },
+            {
+                "id": "133",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi TS 03 L B HP?",
+                "answers": [
+                    {
+                        "text": "1016 bar g",
+                        "answer_start": 95,
+                    }
+                ],
+            },
+            {
+                "id": "134",
+                "is_impossible": True,
+                "question": "What is the noise level of the ELGi TS 03 L B HP?",
+                "answers": [],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 05 L B HP includes a dual operation mode starter for load/unload and on/off functions.",
+        "qas": [
+            {
+                "id": "135",
+                "is_impossible": False,
+                "question": "What type of starter is included in the ELGi MS 05 L B HP?",
+                "answers": [
+                    {
+                        "text": "Dual operation mode starter",
+                        "answer_start": 46,
+                    }
+                ],
+            },
+            {
+                "id": "136",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi MS 05 L B HP?",
+                "answers": [
+                    {
+                        "text": "3.7 kW",
+                        "answer_start": 32,
+                    }
+                ],
+            },
+            {
+                "id": "137",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi MS 05 L B HP?",
+                "answers": [
+                    {
+                        "text": "1005 bar g",
+                        "answer_start": 95,
+                    }
+                ],
+            },
+            {
+                "id": "138",
+                "is_impossible": True,
+                "question": "What is the weight of the ELGi MS 05 L B HP?",
+                "answers": [],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 08 L B PET model is known for its efficiency and compact design for tight spaces.",
+        "qas": [
+            {
+                "id": "139",
+                "is_impossible": False,
+                "question": "What design feature is highlighted for the ELGi TS 08 L B PET?",
+                "answers": [
+                    {
+                        "text": "Compact design",
+                        "answer_start": 78,
+                    }
+                ],
+            },
+            {
+                "id": "140",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 08 L B PET?",
+                "answers": [
+                    {
+                        "text": "850 cfm",
+                        "answer_start": 48,
+                    }
+                ],
+            },
+            {
+                "id": "141",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi TS 08 L B PET?",
+                "answers": [
+                    {
+                        "text": "10 HP",
+                        "answer_start": 32,
+                    }
+                ],
+            },
+            {
+                "id": "142",
+                "is_impossible": True,
+                "question": "What is the lubrication method for the ELGi TS 08 L B PET?",
+                "answers": [],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 10 L B SP model features an automatic unload system for enhanced control and efficiency.",
+        "qas": [
+            {
+                "id": "143",
+                "is_impossible": False,
+                "question": "What system does the ELGi MS 10 L B SP feature for control?",
+                "answers": [
+                    {
+                        "text": "Automatic unload system",
+                        "answer_start": 53,
+                    }
+                ],
+            },
+            {
+                "id": "144",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi MS 10 L B SP?",
+                "answers": [
+                    {
+                        "text": "1300 bar g",
+                        "answer_start": 98,
+                    }
+                ],
+            },
+            {
+                "id": "145",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi MS 10 L B SP?",
+                "answers": [
+                    {
+                        "text": "10.0 HP",
+                        "answer_start": 32,
+                    }
+                ],
+            },
+            {
+                "id": "146",
+                "is_impossible": True,
+                "question": "What is the height of the ELGi MS 10 L B SP?",
+                "answers": [],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 12 L B HP features a high-efficiency cooling system to manage heat dissipation.",
+        "qas": [
+            {
+                "id": "147",
+                "is_impossible": False,
+                "question": "What cooling system does the ELGi TS 12 L B HP use?",
+                "answers": [
+                    {
+                        "text": "High-efficiency cooling system",
+                        "answer_start": 53,
+                    }
+                ],
+            },
+            {
+                "id": "148",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi TS 12 L B HP?",
+                "answers": [
+                    {
+                        "text": "12.0 HP",
+                        "answer_start": 32,
+                    }
+                ],
+            },
+            {
+                "id": "149",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 12 L B HP?",
+                "answers": [
+                    {
+                        "text": "1000 cfm",
+                        "answer_start": 78,
+                    }
+                ],
+            },
+            {
+                "id": "150",
+                "is_impossible": True,
+                "question": "What is the energy consumption of the ELGi TS 12 L B HP?",
+                "answers": [],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 07 L B PET is built with a compact frame and includes a high-efficiency air filter.",
+        "qas": [
+            {
+                "id": "151",
+                "is_impossible": False,
+                "question": "What type of air filter is included in the ELGi MS 07 L B PET?",
+                "answers": [
+                    {
+                        "text": "High-efficiency air filter",
+                        "answer_start": 79,
+                    }
+                ],
+            },
+            {
+                "id": "152",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi MS 07 L B PET?",
+                "answers": [
+                    {
+                        "text": "500 cfm",
+                        "answer_start": 48,
+                    }
+                ],
+            },
+            {
+                "id": "153",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi MS 07 L B PET?",
+                "answers": [
+                    {
+                        "text": "7.5 HP",
+                        "answer_start": 32,
+                    }
+                ],
+            },
+            {
+                "id": "154",
+                "is_impossible": True,
+                "question": "What is the noise level of the ELGi MS 07 L B PET?",
+                "answers": [],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 18 L B HP is equipped with a dual-stage compressor for enhanced pressure and efficiency.",
+        "qas": [
+            {
+                "id": "155",
+                "is_impossible": False,
+                "question": "What type of compressor is used in the ELGi TS 18 L B HP?",
+                "answers": [
+                    {
+                        "text": "Dual-stage compressor",
+                        "answer_start": 62,
+                    }
+                ],
+            },
+            {
+                "id": "156",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi TS 18 L B HP?",
+                "answers": [
+                    {
+                        "text": "18.5 HP",
+                        "answer_start": 32,
+                    }
+                ],
+            },
+            {
+                "id": "157",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 18 L B HP?",
+                "answers": [
+                    {
+                        "text": "1200 cfm",
+                        "answer_start": 78,
+                    }
+                ],
+            },
+            {
+                "id": "158",
+                "is_impossible": True,
+                "question": "What is the cooling method for the ELGi TS 18 L B HP?",
+                "answers": [],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 25 L B HP has an advanced control system for monitoring performance and efficiency.",
+        "qas": [
+            {
+                "id": "159",
+                "is_impossible": False,
+                "question": "What control system does the ELGi MS 25 L B HP use?",
+                "answers": [
+                    {
+                        "text": "Advanced control system",
+                        "answer_start": 48,
+                    }
+                ],
+            },
+            {
+                "id": "160",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi MS 25 L B HP?",
+                "answers": [
+                    {
+                        "text": "25.0 HP",
+                        "answer_start": 32,
+                    }
+                ],
+            },
+            {
+                "id": "161",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi MS 25 L B HP?",
+                "answers": [
+                    {
+                        "text": "1500 cfm",
+                        "answer_start": 78,
+                    }
+                ],
+            },
+            {
+                "id": "162",
+                "is_impossible": True,
+                "question": "What is the air receiver capacity of the ELGi MS 25 L B HP?",
+                "answers": [],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 20 L B SP includes a high-efficiency air intake system for better performance.",
+        "qas": [
+            {
+                "id": "163",
+                "is_impossible": False,
+                "question": "What feature improves performance in the ELGi TS 20 L B SP?",
+                "answers": [
+                    {
+                        "text": "High-efficiency air intake system",
+                        "answer_start": 58,
+                    }
+                ],
+            },
+            {
+                "id": "164",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi TS 20 L B SP?",
+                "answers": [
+                    {
+                        "text": "20.0 HP",
+                        "answer_start": 32,
+                    }
+                ],
+            },
+            {
+                "id": "165",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 20 L B SP?",
+                "answers": [
+                    {
+                        "text": "1600 cfm",
+                        "answer_start": 78,
+                    }
+                ],
+            },
+            {
+                "id": "166",
+                "is_impossible": True,
+                "question": "What is the maximum temperature rating for the ELGi TS 20 L B SP?",
+                "answers": [],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 15 L B PET features an integrated cooling system to manage the temperature of the compressor.",
+        "qas": [
+            {
+                "id": "167",
+                "is_impossible": False,
+                "question": "What cooling system is integrated into the ELGi MS 15 L B PET?",
+                "answers": [
+                    {
+                        "text": "Integrated cooling system",
+                        "answer_start": 69,
+                    }
+                ],
+            },
+            {
+                "id": "168",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi MS 15 L B PET?",
+                "answers": [
+                    {
+                        "text": "15.0 HP",
+                        "answer_start": 32,
+                    }
+                ],
+            },
+            {
+                "id": "169",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi MS 15 L B PET?",
+                "answers": [
+                    {
+                        "text": "1455 bar g",
+                        "answer_start": 95,
+                    }
+                ],
+            },
+            {
+                "id": "170",
+                "is_impossible": True,
+                "question": "What is the weight of the ELGi MS 15 L B PET?",
+                "answers": [],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 25 L B SP includes advanced safety features and a high-efficiency air cooling system.",
+        "qas": [
+            {
+                "id": "171",
+                "is_impossible": False,
+                "question": "What features are included in the ELGi TS 25 L B SP?",
+                "answers": [
+                    {
+                        "text": "Advanced safety features and a high-efficiency air cooling system",
+                        "answer_start": 51,
+                    }
+                ],
+            },
+            {
+                "id": "172",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi TS 25 L B SP?",
+                "answers": [
+                    {
+                        "text": "25.0 HP",
+                        "answer_start": 32,
+                    }
+                ],
+            },
+            {
+                "id": "173",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 25 L B SP?",
+                "answers": [
+                    {
+                        "text": "1800 cfm",
+                        "answer_start": 78,
+                    }
+                ],
+            },
+            {
+                "id": "174",
+                "is_impossible": True,
+                "question": "What is the noise level of the ELGi TS 25 L B SP?",
+                "answers": [],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 18 L B HP model features a reliable start/stop control system for efficient operation.",
+        "qas": [
+            {
+                "id": "175",
+                "is_impossible": False,
+                "question": "What control system is used in the ELGi MS 18 L B HP?",
+                "answers": [
+                    {
+                        "text": "Reliable start/stop control system",
+                        "answer_start": 53,
+                    }
+                ],
+            },
+            {
+                "id": "176",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi MS 18 L B HP?",
+                "answers": [
+                    {
+                        "text": "18.0 HP",
+                        "answer_start": 32,
+                    }
+                ],
+            },
+            {
+                "id": "177",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi MS 18 L B HP?",
+                "answers": [
+                    {
+                        "text": "1200 cfm",
+                        "answer_start": 78,
+                    }
+                ],
+            },
+            {
+                "id": "178",
+                "is_impossible": True,
+                "question": "What is the lubrication method of the ELGi MS 18 L B HP?",
+                "answers": [],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 10 L B PET has a high-efficiency piston cooling system for extended durability.",
+        "qas": [
+            {
+                "id": "179",
+                "is_impossible": False,
+                "question": "What cooling system is used in the ELGi TS 10 L B PET?",
+                "answers": [
+                    {
+                        "text": "High-efficiency piston cooling system",
+                        "answer_start": 59,
+                    }
+                ],
+            },
+            {
+                "id": "180",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi TS 10 L B PET?",
+                "answers": [
+                    {
+                        "text": "10 HP",
+                        "answer_start": 32,
+                    }
+                ],
+            },
+            {
+                "id": "181",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 10 L B PET?",
+                "answers": [
+                    {
+                        "text": "850 cfm",
+                        "answer_start": 78,
+                    }
+                ],
+            },
+            {
+                "id": "182",
+                "is_impossible": True,
+                "question": "What is the maximum temperature rating for the ELGi TS 10 L B PET?",
+                "answers": [],
+            },
+        ],
+    },
+
+
+    {
+        "context": "The ELGi MS 07 L B SP user manual specifies that the compressor has an automatic restart feature in case of power loss.",
+        "qas": [
+            {
+                "id": "183",
+                "is_impossible": False,
+                "question": "What feature does the ELGi MS 07 L B SP have for power loss recovery?",
+                "answers": [
+                    {
+                        "text": "Automatic restart feature",
+                        "answer_start": 58,
+                    }
+                ],
+            },
+            {
+                "id": "184",
+                "is_impossible": False,
+                "question": "Can the ELGi MS 07 L B SP operate in extreme temperatures?",
+                "answers": [
+                    {
+                        "text": "Yes, it is designed for a wide temperature range.",
+                        "answer_start": 42,
+                    }
+                ],
+            },
+            {
+                "id": "185",
+                "is_impossible": True,
+                "question": "What is the noise level of the ELGi MS 07 L B SP?",
+                "answers": [],
+            },
+            {
+                "id": "186",
+                "is_impossible": False,
+                "question": "How often should the oil be changed in the ELGi MS 07 L B SP?",
+                "answers": [
+                    {
+                        "text": "Every 1000 operational hours or 6 months.",
+                        "answer_start": 32,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 08 L B HP manual includes a detailed section on troubleshooting, including common issues like oil leakage and insufficient pressure.",
+        "qas": [
+            {
+                "id": "187",
+                "is_impossible": False,
+                "question": "What is one common issue addressed in the troubleshooting section of the ELGi TS 08 L B HP manual?",
+                "answers": [
+                    {
+                        "text": "Oil leakage",
+                        "answer_start": 77,
+                    }
+                ],
+            },
+            {
+                "id": "188",
+                "is_impossible": False,
+                "question": "What should be checked if the ELGi TS 08 L B HP shows insufficient pressure?",
+                "answers": [
+                    {
+                        "text": "Check for leaks in the system and ensure proper oil levels.",
+                        "answer_start": 50,
+                    }
+                ],
+            },
+            {
+                "id": "189",
+                "is_impossible": True,
+                "question": "What is the recommended power supply for the ELGi TS 08 L B HP?",
+                "answers": [],
+            },
+            {
+                "id": "190",
+                "is_impossible": False,
+                "question": "What maintenance task is recommended for the ELGi TS 08 L B HP every 6 months?",
+                "answers": [
+                    {
+                        "text": "Replace the air filter and check the belt tension.",
+                        "answer_start": 48,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 10 L B PET user manual describes safety precautions, including wearing protective gear and ensuring proper ventilation.",
+        "qas": [
+            {
+                "id": "191",
+                "is_impossible": False,
+                "question": "What safety precaution should be taken when operating the ELGi MS 10 L B PET?",
+                "answers": [
+                    {
+                        "text": "Wear protective gear and ensure proper ventilation.",
+                        "answer_start": 49,
+                    }
+                ],
+            },
+            {
+                "id": "192",
+                "is_impossible": True,
+                "question": "What is the recommended frequency of safety checks for the ELGi MS 10 L B PET?",
+                "answers": [],
+            },
+            {
+                "id": "193",
+                "is_impossible": False,
+                "question": "What should be done if the ELGi MS 10 L B PET emits unusual noises?",
+                "answers": [
+                    {
+                        "text": "Stop the machine immediately and consult the manual for troubleshooting steps.",
+                        "answer_start": 58,
+                    }
+                ],
+            },
+            {
+                "id": "194",
+                "is_impossible": False,
+                "question": "How can the user ensure the ELGi MS 10 L B PET is properly ventilated?",
+                "answers": [
+                    {
+                        "text": "Ensure that the area is well-ventilated and free from obstructions around the compressor.",
+                        "answer_start": 39,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 12 L B SP manual provides instructions for installation, including ensuring a stable base and connecting to the power supply.",
+        "qas": [
+            {
+                "id": "195",
+                "is_impossible": False,
+                "question": "What is a critical step in the installation of the ELGi TS 12 L B SP?",
+                "answers": [
+                    {
+                        "text": "Ensure a stable base and proper connection to the power supply.",
+                        "answer_start": 54,
+                    }
+                ],
+            },
+            {
+                "id": "196",
+                "is_impossible": False,
+                "question": "Can the ELGi TS 12 L B SP be installed outdoors?",
+                "answers": [
+                    {
+                        "text": "It should be installed in a covered, dry area to protect it from the elements.",
+                        "answer_start": 73,
+                    }
+                ],
+            },
+            {
+                "id": "197",
+                "is_impossible": True,
+                "question": "What is the installation clearance requirement for the ELGi TS 12 L B SP?",
+                "answers": [],
+            },
+            {
+                "id": "198",
+                "is_impossible": False,
+                "question": "What is the first step in the installation process for the ELGi TS 12 L B SP?",
+                "answers": [
+                    {
+                        "text": "Place the compressor on a stable and level surface.",
+                        "answer_start": 31,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 15 L B HP manual includes a section on troubleshooting common issues such as pressure drops and overheating.",
+        "qas": [
+            {
+                "id": "199",
+                "is_impossible": False,
+                "question": "What is a common issue with the ELGi MS 15 L B HP that might cause pressure drops?",
+                "answers": [
+                    {
+                        "text": "Clogged air filters or leaks in the system.",
+                        "answer_start": 60,
+                    }
+                ],
+            },
+            {
+                "id": "200",
+                "is_impossible": True,
+                "question": "What is the recommended procedure for recalibrating the ELGi MS 15 L B HP?",
+                "answers": [],
+            },
+            {
+                "id": "201",
+                "is_impossible": False,
+                "question": "What should be done if the ELGi MS 15 L B HP overheats?",
+                "answers": [
+                    {
+                        "text": "Ensure that the cooling system is working properly and check for any blockages in the ventilation.",
+                        "answer_start": 52,
+                    }
+                ],
+            },
+            {
+                "id": "202",
+                "is_impossible": False,
+                "question": "How can the user prevent overheating of the ELGi MS 15 L B HP?",
+                "answers": [
+                    {
+                        "text": "Regularly check and clean the cooling system and ensure adequate airflow around the unit.",
+                        "answer_start": 47,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 18 L B PET manual includes maintenance guidelines such as changing the air filter and checking oil levels.",
+        "qas": [
+            {
+                "id": "203",
+                "is_impossible": False,
+                "question": "What maintenance task is required for the air filter in the ELGi TS 18 L B PET?",
+                "answers": [
+                    {
+                        "text": "Change the air filter regularly.",
+                        "answer_start": 33,
+                    }
+                ],
+            },
+            {
+                "id": "204",
+                "is_impossible": False,
+                "question": "How often should the oil levels be checked in the ELGi TS 18 L B PET?",
+                "answers": [
+                    {
+                        "text": "Check oil levels every 500 operational hours.",
+                        "answer_start": 32,
+                    }
+                ],
+            },
+            {
+                "id": "205",
+                "is_impossible": True,
+                "question": "What is the recommended oil type for the ELGi TS 18 L B PET?",
+                "answers": [],
+            },
+            {
+                "id": "206",
+                "is_impossible": False,
+                "question": "What should be done if the air filter of the ELGi TS 18 L B PET is clogged?",
+                "answers": [
+                    {
+                        "text": "Replace the air filter immediately to ensure proper operation.",
+                        "answer_start": 51,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 20 L B SP manual provides safety information, including warnings about high pressure and electrical hazards.",
+        "qas": [
+            {
+                "id": "207",
+                "is_impossible": False,
+                "question": "What warning is given regarding high pressure in the ELGi MS 20 L B SP?",
+                "answers": [
+                    {
+                        "text": "Avoid contact with high-pressure components to prevent injury.",
+                        "answer_start": 46,
+                    }
+                ],
+            },
+            {
+                "id": "208",
+                "is_impossible": True,
+                "question": "What should be done if the ELGi MS 20 L B SP experiences electrical faults?",
+                "answers": [],
+            },
+            {
+                "id": "209",
+                "is_impossible": False,
+                "question": "What is a recommended safety measure when operating the ELGi MS 20 L B SP?",
+                "answers": [
+                    {
+                        "text": "Ensure all electrical connections are properly insulated and grounded.",
+                        "answer_start": 53,
+                    }
+                ],
+            },
+            {
+                "id": "210",
+                "is_impossible": False,
+                "question": "What should be done before performing maintenance on the ELGi MS 20 L B SP?",
+                "answers": [
+                    {
+                        "text": "Disconnect the power supply and release any pressure in the system.",
+                        "answer_start": 44,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 25 L B HP user manual includes detailed instructions for operating the compressor efficiently and safely.",
+        "qas": [
+            {
+                "id": "211",
+                "is_impossible": False,
+                "question": "What is a key instruction for operating the ELGi TS 25 L B HP efficiently?",
+                "answers": [
+                    {
+                        "text": "Regularly monitor and maintain optimal pressure levels and ensure proper lubrication.",
+                        "answer_start": 62,
+                    }
+                ],
+            },
+            {
+                "id": "212",
+                "is_impossible": False,
+                "question": "What safety instruction is provided for operating the ELGi TS 25 L B HP?",
+                "answers": [
+                    {
+                        "text": "Always wear appropriate safety gear and follow operational guidelines to avoid accidents.",
+                        "answer_start": 60,
+                    }
+                ],
+            },
+            {
+                "id": "213",
+                "is_impossible": True,
+                "question": "What is the recommended service interval for the ELGi TS 25 L B HP?",
+                "answers": [],
+            },
+            {
+                "id": "214",
+                "is_impossible": False,
+                "question": "What operational checks are advised for the ELGi TS 25 L B HP?",
+                "answers": [
+                    {
+                        "text": "Check the oil level, pressure settings, and inspect for leaks regularly.",
+                        "answer_start": 45,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 30 L B PET manual provides information on the warranty terms, including coverage details and the process for making claims.",
+        "qas": [
+            {
+                "id": "215",
+                "is_impossible": False,
+                "question": "What does the warranty for the ELGi MS 30 L B PET cover?",
+                "answers": [
+                    {
+                        "text": "The warranty covers manufacturing defects and certain repairs under specified conditions.",
+                        "answer_start": 46,
+                    }
+                ],
+            },
+            {
+                "id": "216",
+                "is_impossible": False,
+                "question": "What is the process for making a warranty claim for the ELGi MS 30 L B PET?",
+                "answers": [
+                    {
+                        "text": "Contact the authorized service center with proof of purchase and details of the defect.",
+                        "answer_start": 63,
+                    }
+                ],
+            },
+            {
+                "id": "217",
+                "is_impossible": True,
+                "question": "What is the duration of the warranty for the ELGi MS 30 L B PET?",
+                "answers": [],
+            },
+            {
+                "id": "218",
+                "is_impossible": False,
+                "question": "Are there any exclusions in the warranty for the ELGi MS 30 L B PET?",
+                "answers": [
+                    {
+                        "text": "The warranty does not cover damage caused by misuse or lack of maintenance.",
+                        "answer_start": 68,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 35 L B SP manual outlines procedures for proper storage and handling of the compressor to avoid damage.",
+        "qas": [
+            {
+                "id": "219",
+                "is_impossible": False,
+                "question": "What is a recommended storage procedure for the ELGi TS 35 L B SP?",
+                "answers": [
+                    {
+                        "text": "Store in a dry, clean area and cover to protect from dust and moisture.",
+                        "answer_start": 48,
+                    }
+                ],
+            },
+            {
+                "id": "220",
+                "is_impossible": False,
+                "question": "How should the ELGi TS 35 L B SP be handled to prevent damage?",
+                "answers": [
+                    {
+                        "text": "Handle with care and avoid dropping or jarring the unit during transport.",
+                        "answer_start": 39,
+                    }
+                ],
+            },
+            {
+                "id": "221",
+                "is_impossible": True,
+                "question": "What is the recommended storage temperature for the ELGi TS 35 L B SP?",
+                "answers": [],
+            },
+            {
+                "id": "222",
+                "is_impossible": False,
+                "question": "What is the procedure for preparing the ELGi TS 35 L B SP for long-term storage?",
+                "answers": [
+                    {
+                        "text": "Drain all fluids, clean the unit, and cover it to prevent dust accumulation.",
+                        "answer_start": 55,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 40 L B HP manual details operational guidelines including startup procedures and routine checks.",
+        "qas": [
+            {
+                "id": "223",
+                "is_impossible": False,
+                "question": "What is a critical step in the startup procedure for the ELGi MS 40 L B HP?",
+                "answers": [
+                    {
+                        "text": "Ensure that all connections are secure and check the oil level before starting the unit.",
+                        "answer_start": 69,
+                    }
+                ],
+            },
+            {
+                "id": "224",
+                "is_impossible": False,
+                "question": "What routine check is recommended for the ELGi MS 40 L B HP?",
+                "answers": [
+                    {
+                        "text": "Check for leaks and ensure that the pressure gauge is functioning correctly.",
+                        "answer_start": 42,
+                    }
+                ],
+            },
+            {
+                "id": "225",
+                "is_impossible": True,
+                "question": "What are the specific startup times for the ELGi MS 40 L B HP?",
+                "answers": [],
+            },
+            {
+                "id": "226",
+                "is_impossible": False,
+                "question": "What should be done if the ELGi MS 40 L B HP does not start?",
+                "answers": [
+                    {
+                        "text": "Check the power supply and ensure that all safety switches are in the correct position.",
+                        "answer_start": 52,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 50 L B PET manual covers different types of filters and their maintenance procedures, including oil and air filters.",
+        "qas": [
+            {
+                "id": "227",
+                "is_impossible": False,
+                "question": "What types of filters are covered in the ELGi TS 50 L B PET manual?",
+                "answers": [
+                    {
+                        "text": "Oil and air filters.",
+                        "answer_start": 43,
+                    }
+                ],
+            },
+            {
+                "id": "228",
+                "is_impossible": False,
+                "question": "How often should the air filter be checked in the ELGi TS 50 L B PET?",
+                "answers": [
+                    {
+                        "text": "Check the air filter every 500 operational hours.",
+                        "answer_start": 35,
+                    }
+                ],
+            },
+            {
+                "id": "229",
+                "is_impossible": True,
+                "question": "What is the procedure for cleaning the oil filter of the ELGi TS 50 L B PET?",
+                "answers": [],
+            },
+            {
+                "id": "230",
+                "is_impossible": False,
+                "question": "What is the recommended procedure for replacing the air filter in the ELGi TS 50 L B PET?",
+                "answers": [
+                    {
+                        "text": "Remove the old filter, clean the filter area, and install a new filter securely.",
+                        "answer_start": 45,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 55 L B SP manual explains the importance of regular inspections to ensure the compressor's longevity and efficiency.",
+        "qas": [
+            {
+                "id": "231",
+                "is_impossible": False,
+                "question": "Why is regular inspection important for the ELGi MS 55 L B SP?",
+                "answers": [
+                    {
+                        "text": "To ensure the compressor's longevity and maintain operational efficiency.",
+                        "answer_start": 54,
+                    }
+                ],
+            },
+            {
+                "id": "232",
+                "is_impossible": True,
+                "question": "What are the specific inspection intervals for the ELGi MS 55 L B SP?",
+                "answers": [],
+            },
+            {
+                "id": "233",
+                "is_impossible": False,
+                "question": "What should be included in a regular inspection of the ELGi MS 55 L B SP?",
+                "answers": [
+                    {
+                        "text": "Check for leaks, inspect oil levels, and ensure that all parts are functioning correctly.",
+                        "answer_start": 43,
+                    }
+                ],
+            },
+            {
+                "id": "234",
+                "is_impossible": False,
+                "question": "What is a sign that the ELGi MS 55 L B SP needs immediate attention?",
+                "answers": [
+                    {
+                        "text": "Unusual noises or vibrations during operation.",
+                        "answer_start": 43,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 60 L B HP manual contains information on upgrading components and how it affects performance.",
+        "qas": [
+            {
+                "id": "235",
+                "is_impossible": False,
+                "question": "What should be considered when upgrading components in the ELGi TS 60 L B HP?",
+                "answers": [
+                    {
+                        "text": "Upgrades can affect performance, so ensure compatibility and proper installation.",
+                        "answer_start": 46,
+                    }
+                ],
+            },
+            {
+                "id": "236",
+                "is_impossible": False,
+                "question": "How can upgrading components impact the performance of the ELGi TS 60 L B HP?",
+                "answers": [
+                    {
+                        "text": "It can improve efficiency and capacity but must be done carefully to avoid issues.",
+                        "answer_start": 63,
+                    }
+                ],
+            },
+            {
+                "id": "237",
+                "is_impossible": True,
+                "question": "What are the specific performance benefits of upgrading the motor in the ELGi TS 60 L B HP?",
+                "answers": [],
+            },
+            {
+                "id": "238",
+                "is_impossible": False,
+                "question": "What should be done before upgrading any components in the ELGi TS 60 L B HP?",
+                "answers": [
+                    {
+                        "text": "Consult the manual for compatibility and installation guidelines.",
+                        "answer_start": 48,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 65 L B PET manual provides information on emergency procedures and how to handle sudden shutdowns.",
+        "qas": [
+            {
+                "id": "239",
+                "is_impossible": False,
+                "question": "What is the recommended procedure for handling a sudden shutdown of the ELGi MS 65 L B PET?",
+                "answers": [
+                    {
+                        "text": "Follow the emergency shutdown procedure outlined in the manual and contact service support.",
+                        "answer_start": 60,
+                    }
+                ],
+            },
+            {
+                "id": "240",
+                "is_impossible": False,
+                "question": "What should be done immediately after a sudden shutdown of the ELGi MS 65 L B PET?",
+                "answers": [
+                    {
+                        "text": "Ensure the power is turned off and inspect for any obvious issues before restarting.",
+                        "answer_start": 58,
+                    }
+                ],
+            },
+            {
+                "id": "241",
+                "is_impossible": True,
+                "question": "What are the common causes of sudden shutdowns for the ELGi MS 65 L B PET?",
+                "answers": [],
+            },
+            {
+                "id": "242",
+                "is_impossible": False,
+                "question": "How can users prevent sudden shutdowns of the ELGi MS 65 L B PET?",
+                "answers": [
+                    {
+                        "text": "Regularly maintain and inspect the unit to prevent issues that could lead to sudden shutdowns.",
+                        "answer_start": 48,
+                    }
+                ],
+            },
+        ],
+    },
+
+
+    {
+        "context": "The ELGi MS 20 L B PET model specifications include detailed information on dimensions, weight, and performance metrics.",
+        "qas": [
+            {
+                "id": "243",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi MS 20 L B PET model?",
+                "answers": [
+                    {
+                        "text": "400 kg",
+                        "answer_start": 27,
+                    }
+                ],
+            },
+            {
+                "id": "244",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi MS 20 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Length: 1099 mm, Breadth: 770 mm, Height: 1048 mm",
+                        "answer_start": 31,
+                    }
+                ],
+            },
+            {
+                "id": "245",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi MS 20 L B PET model?",
+                "answers": [
+                    {
+                        "text": "8 bar g",
+                        "answer_start": 45,
+                    }
+                ],
+            },
+            {
+                "id": "246",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi MS 20 L B PET model?",
+                "answers": [
+                    {
+                        "text": "735 lpm",
+                        "answer_start": 38,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 30 L B HP model features and specifications include weight, dimensions, and operational capacity details.",
+        "qas": [
+            {
+                "id": "247",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi TS 30 L B HP model?",
+                "answers": [
+                    {
+                        "text": "580 kg",
+                        "answer_start": 27,
+                    }
+                ],
+            },
+            {
+                "id": "248",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi TS 30 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Length: 1500 mm, Breadth: 900 mm, Height: 1200 mm",
+                        "answer_start": 31,
+                    }
+                ],
+            },
+            {
+                "id": "249",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi TS 30 L B HP model?",
+                "answers": [
+                    {
+                        "text": "10 bar g",
+                        "answer_start": 45,
+                    }
+                ],
+            },
+            {
+                "id": "250",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 30 L B HP model?",
+                "answers": [
+                    {
+                        "text": "1150 lpm",
+                        "answer_start": 38,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 40 L B SP model includes important details such as weight, dimensions, and capacity.",
+        "qas": [
+            {
+                "id": "251",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi MS 40 L B SP model?",
+                "answers": [
+                    {
+                        "text": "1000 kg",
+                        "answer_start": 27,
+                    }
+                ],
+            },
+            {
+                "id": "252",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi MS 40 L B SP model?",
+                "answers": [
+                    {
+                        "text": "Length: 1600 mm, Breadth: 950 mm, Height: 1300 mm",
+                        "answer_start": 31,
+                    }
+                ],
+            },
+            {
+                "id": "253",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi MS 40 L B SP model?",
+                "answers": [
+                    {
+                        "text": "12 bar g",
+                        "answer_start": 45,
+                    }
+                ],
+            },
+            {
+                "id": "254",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi MS 40 L B SP model?",
+                "answers": [
+                    {
+                        "text": "1455 lpm",
+                        "answer_start": 38,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 50 L B PET model specifications detail the weight, dimensions, and operational performance.",
+        "qas": [
+            {
+                "id": "255",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi TS 50 L B PET model?",
+                "answers": [
+                    {
+                        "text": "1200 kg",
+                        "answer_start": 27,
+                    }
+                ],
+            },
+            {
+                "id": "256",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi TS 50 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Length: 1700 mm, Breadth: 1000 mm, Height: 1400 mm",
+                        "answer_start": 31,
+                    }
+                ],
+            },
+            {
+                "id": "257",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi TS 50 L B PET model?",
+                "answers": [
+                    {
+                        "text": "14 bar g",
+                        "answer_start": 45,
+                    }
+                ],
+            },
+            {
+                "id": "258",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 50 L B PET model?",
+                "answers": [
+                    {
+                        "text": "1602 lpm",
+                        "answer_start": 38,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 55 L B HP model provides details about its weight, dimensions, and operational metrics.",
+        "qas": [
+            {
+                "id": "259",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi MS 55 L B HP model?",
+                "answers": [
+                    {
+                        "text": "1500 kg",
+                        "answer_start": 27,
+                    }
+                ],
+            },
+            {
+                "id": "260",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi MS 55 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Length: 1800 mm, Breadth: 1100 mm, Height: 1500 mm",
+                        "answer_start": 31,
+                    }
+                ],
+            },
+            {
+                "id": "261",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi MS 55 L B HP model?",
+                "answers": [
+                    {
+                        "text": "16 bar g",
+                        "answer_start": 45,
+                    }
+                ],
+            },
+            {
+                "id": "262",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi MS 55 L B HP model?",
+                "answers": [
+                    {
+                        "text": "1880 lpm",
+                        "answer_start": 38,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 60 L B PET model includes detailed specifications on weight, dimensions, and free air delivery.",
+        "qas": [
+            {
+                "id": "263",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi TS 60 L B PET model?",
+                "answers": [
+                    {
+                        "text": "1700 kg",
+                        "answer_start": 27,
+                    }
+                ],
+            },
+            {
+                "id": "264",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi TS 60 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Length: 1900 mm, Breadth: 1200 mm, Height: 1600 mm",
+                        "answer_start": 31,
+                    }
+                ],
+            },
+            {
+                "id": "265",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi TS 60 L B PET model?",
+                "answers": [
+                    {
+                        "text": "18 bar g",
+                        "answer_start": 45,
+                    }
+                ],
+            },
+            {
+                "id": "266",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 60 L B PET model?",
+                "answers": [
+                    {
+                        "text": "1978 lpm",
+                        "answer_start": 38,
+                    }
+                ],
+            },
+        ],
+    },
+
+    {
+        "context": "The ELGi MS 20 L B PET model features include high safety standards and compatibility with downstream accessories.",
+        "qas": [
+            {
+                "id": "267",
+                "is_impossible": False,
+                "question": "What safety features are included in the ELGi MS 20 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Twin sided belt guard, sealed safety valves",
+                        "answer_start": 20,
+                    }
+                ],
+            },
+            {
+                "id": "268",
+                "is_impossible": False,
+                "question": "What downstream accessories are compatible with the ELGi MS 20 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Pre and after filters, oil and moisture separators, refrigerant dryers, vertical air receivers",
+                        "answer_start": 40,
+                    }
+                ],
+            },
+            {
+                "id": "269",
+                "is_impossible": False,
+                "question": "What are the operating conditions for the ELGi MS 20 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Designed for higher pressures and high uptime",
+                        "answer_start": 26,
+                    }
+                ],
+            },
+            {
+                "id": "270",
+                "is_impossible": False,
+                "question": "Is the ELGi MS 20 L B PET model OSHA compliant?",
+                "answers": [
+                    {
+                        "text": "Yes",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 30 L B HP model has a robust design including high quality bearings and advanced cooling systems.",
+        "qas": [
+            {
+                "id": "271",
+                "is_impossible": False,
+                "question": "What type of bearings are used in the ELGi TS 30 L B HP model?",
+                "answers": [
+                    {
+                        "text": "High quality ball bearings and roller bearings",
+                        "answer_start": 24,
+                    }
+                ],
+            },
+            {
+                "id": "272",
+                "is_impossible": False,
+                "question": "What cooling systems are included in the ELGi TS 30 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Air cooled inter stage and after stage copper coolers",
+                        "answer_start": 27,
+                    }
+                ],
+            },
+            {
+                "id": "273",
+                "is_impossible": False,
+                "question": "What is the lubrication system used in the ELGi TS 30 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Splash lubrication system",
+                        "answer_start": 25,
+                    }
+                ],
+            },
+            {
+                "id": "274",
+                "is_impossible": False,
+                "question": "What type of motor is used in the ELGi TS 30 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Heavy duty, TEFC, CE Certified, designed for 50°C ambient with IP55 protection & Class F insulation",
+                        "answer_start": 17,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 40 L B SP model includes specifications for free air delivery, maximum pressure, and construction materials.",
+        "qas": [
+            {
+                "id": "275",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi MS 40 L B SP model?",
+                "answers": [
+                    {
+                        "text": "1455 lpm",
+                        "answer_start": 31,
+                    }
+                ],
+            },
+            {
+                "id": "276",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi MS 40 L B SP model?",
+                "answers": [
+                    {
+                        "text": "10 bar g",
+                        "answer_start": 47,
+                    }
+                ],
+            },
+            {
+                "id": "277",
+                "is_impossible": False,
+                "question": "What materials are used in the construction of the ELGi MS 40 L B SP model?",
+                "answers": [
+                    {
+                        "text": "Cast iron cylinders and cylinder heads with deep grooved cooling fins",
+                        "answer_start": 27,
+                    }
+                ],
+            },
+            {
+                "id": "278",
+                "is_impossible": False,
+                "question": "What is the piston type used in the ELGi MS 40 L B SP model?",
+                "answers": [
+                    {
+                        "text": "Aluminium pistons with piston rings",
+                        "answer_start": 27,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 50 L B PET model offers detailed information about its operational efficiency and additional features.",
+        "qas": [
+            {
+                "id": "279",
+                "is_impossible": False,
+                "question": "What is the efficiency of the ELGi TS 50 L B PET model?",
+                "answers": [
+                    {
+                        "text": "High efficiency with robust 3-stage high pressure block",
+                        "answer_start": 18,
+                    }
+                ],
+            },
+            {
+                "id": "280",
+                "is_impossible": False,
+                "question": "What is the function of the solenoid controlled delivery un-loader in the ELGi TS 50 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Automatic bleeding of compressed air to ensure smooth starting",
+                        "answer_start": 18,
+                    }
+                ],
+            },
+            {
+                "id": "281",
+                "is_impossible": False,
+                "question": "What type of air receiver is used in the ELGi TS 50 L B PET model?",
+                "answers": [
+                    {
+                        "text": "500 Lts high pressure receiver designed as per ASME standards",
+                        "answer_start": 20,
+                    }
+                ],
+            },
+            {
+                "id": "282",
+                "is_impossible": False,
+                "question": "What is the purpose of the V-belts in the ELGi TS 50 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Double poly V belts with low transmission loss",
+                        "answer_start": 27,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 55 L B HP model is designed with advanced features to meet high pressure demands and ensure safety.",
+        "qas": [
+            {
+                "id": "283",
+                "is_impossible": False,
+                "question": "What features ensure operator safety in the ELGi MS 55 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Close mesh belt guard and safety valves",
+                        "answer_start": 30,
+                    }
+                ],
+            },
+            {
+                "id": "284",
+                "is_impossible": False,
+                "question": "What type of unloader system is used in the ELGi MS 55 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Solenoid controlled automatic bleeding",
+                        "answer_start": 18,
+                    }
+                ],
+            },
+            {
+                "id": "285",
+                "is_impossible": False,
+                "question": "What is the purpose of the inter and after coolers in the ELGi MS 55 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Robust air cooled coolers for efficient heat dissipation",
+                        "answer_start": 27,
+                    }
+                ],
+            },
+            {
+                "id": "286",
+                "is_impossible": False,
+                "question": "What is the significance of the 3-piece forged crankshaft in the ELGi MS 55 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Offers high mechanical life and smooth operation",
+                        "answer_start": 23,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 60 L B PET model is engineered for high performance and includes advanced components for reliability.",
+        "qas": [
+            {
+                "id": "287",
+                "is_impossible": False,
+                "question": "What is the purpose of the high quality ball bearings in the ELGi TS 60 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Ensures optimum load transfer and reduces uneven wear",
+                        "answer_start": 26,
+                    }
+                ],
+            },
+            {
+                "id": "288",
+                "is_impossible": False,
+                "question": "What are the key features of the electric motor used in the ELGi TS 60 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Heavy duty, TEFC, CE Certified, designed for 50°C ambient with IP55 protection & Class F insulation",
+                        "answer_start": 23,
+                    }
+                ],
+            },
+            {
+                "id": "289",
+                "is_impossible": False,
+                "question": "How does the splash lubrication system benefit the ELGi TS 60 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Ensures proper circulation of oil to all parts of the rotating system",
+                        "answer_start": 14,
+                    }
+                ],
+            },
+        ]
+    },
+
+    {
+        "context": "The ELGi TS 60 L B PET model is engineered for high performance and includes advanced components for reliability.",
+        "qas": [
+            {
+                "id": "290",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi TS 60 L B PET model?",
+                "answers": [
+                    {
+                        "text": "1980 kg",
+                        "answer_start": 19,
+                    }
+                ],
+            },
+            {
+                "id": "291",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi TS 60 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Length: 1980 mm, Breadth: 1620 mm, Height: 435 mm",
+                        "answer_start": 21,
+                    }
+                ],
+            },
+            {
+                "id": "292",
+                "is_impossible": False,
+                "question": "What is the piston displacement of the ELGi TS 60 L B PET model?",
+                "answers": [
+                    {
+                        "text": "1538 lpm",
+                        "answer_start": 24,
+                    }
+                ],
+            },
+            {
+                "id": "293",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 60 L B PET model?",
+                "answers": [
+                    {
+                        "text": "1150 cfm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 70 L B HP model features include a high-quality air filter and a durable crankcase.",
+        "qas": [
+            {
+                "id": "294",
+                "is_impossible": False,
+                "question": "What type of air filter is used in the ELGi MS 70 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Heavy duty air filter with enhanced life",
+                        "answer_start": 26,
+                    }
+                ],
+            },
+            {
+                "id": "295",
+                "is_impossible": False,
+                "question": "What is the material of the crankcase in the ELGi MS 70 L B HP model?",
+                "answers": [
+                    {
+                        "text": "High grade cast iron",
+                        "answer_start": 21,
+                    }
+                ],
+            },
+            {
+                "id": "296",
+                "is_impossible": False,
+                "question": "What is the function of the close mesh belt guard in the ELGi MS 70 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Prevents accidental injury to the operator",
+                        "answer_start": 18,
+                    }
+                ],
+            },
+            {
+                "id": "297",
+                "is_impossible": False,
+                "question": "What type of lubrication system does the ELGi MS 70 L B HP model use?",
+                "answers": [
+                    {
+                        "text": "Splash lubrication system",
+                        "answer_start": 24,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 80 L B PET model provides detailed information about its operational capacity and safety features.",
+        "qas": [
+            {
+                "id": "298",
+                "is_impossible": False,
+                "question": "What is the operational capacity of the ELGi TS 80 L B PET model?",
+                "answers": [
+                    {
+                        "text": "20.0 HP",
+                        "answer_start": 24,
+                    }
+                ],
+            },
+            {
+                "id": "299",
+                "is_impossible": False,
+                "question": "What are the safety features of the ELGi TS 80 L B PET model?",
+                "answers": [
+                    {
+                        "text": "4 safety valves",
+                        "answer_start": 20,
+                    }
+                ],
+            },
+            {
+                "id": "300",
+                "is_impossible": False,
+                "question": "What type of coolers are used in the ELGi TS 80 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Robust air cooled inter stage and after stage copper coolers",
+                        "answer_start": 24,
+                    }
+                ],
+            },
+            {
+                "id": "301",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi TS 80 L B PET model?",
+                "answers": [
+                    {
+                        "text": "1500 kg",
+                        "answer_start": 18,
+                    }
+                ],
+            },
+            {
+                "id": "302",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi TS 80 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Length: 1980 mm, Breadth: 1620 mm, Height: 435 mm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 90 L B HP model is equipped with high-performance components designed for demanding applications.",
+        "qas": [
+            {
+                "id": "303",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi MS 90 L B HP model?",
+                "answers": [
+                    {
+                        "text": "20.0 HP",
+                        "answer_start": 18,
+                    }
+                ],
+            },
+            {
+                "id": "304",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi MS 90 L B HP model?",
+                "answers": [
+                    {
+                        "text": "10 bar g",
+                        "answer_start": 33,
+                    }
+                ],
+            },
+            {
+                "id": "305",
+                "is_impossible": False,
+                "question": "What materials are used in the construction of the ELGi MS 90 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Cast iron cylinders and cylinder heads",
+                        "answer_start": 27,
+                    }
+                ],
+            },
+            {
+                "id": "306",
+                "is_impossible": False,
+                "question": "What is the purpose of the oil and moisture separators in the ELGi MS 90 L B HP model?",
+                "answers": [
+                    {
+                        "text": "To remove contaminants from the compressed air",
+                        "answer_start": 23,
+                    }
+                ],
+            },
+            {
+                "id": "307",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi MS 90 L B HP model?",
+                "answers": [
+                    {
+                        "text": "1150 cfm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 100 L B PET model offers comprehensive features and specifications for efficient and reliable operation.",
+        "qas": [
+            {
+                "id": "308",
+                "is_impossible": False,
+                "question": "What is the piston displacement of the ELGi TS 100 L B PET model?",
+                "answers": [
+                    {
+                        "text": "1880 lpm",
+                        "answer_start": 25,
+                    }
+                ],
+            },
+            {
+                "id": "309",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi TS 100 L B PET model?",
+                "answers": [
+                    {
+                        "text": "2000 kg",
+                        "answer_start": 19,
+                    }
+                ],
+            },
+            {
+                "id": "310",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi TS 100 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Length: 1980 mm, Breadth: 1620 mm, Height: 435 mm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "311",
+                "is_impossible": False,
+                "question": "What type of air receiver is used in the ELGi TS 100 L B PET model?",
+                "answers": [
+                    {
+                        "text": "500 Lts high pressure receiver designed as per ASME standards",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "312",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 100 L B PET model?",
+                "answers": [
+                    {
+                        "text": "1455 cfm",
+                        "answer_start": 24,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 110 L B HP model is designed with state-of-the-art features for enhanced performance and durability.",
+        "qas": [
+            {
+                "id": "313",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi MS 110 L B HP model?",
+                "answers": [
+                    {
+                        "text": "20.0 HP",
+                        "answer_start": 18,
+                    }
+                ],
+            },
+            {
+                "id": "314",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi MS 110 L B HP model?",
+                "answers": [
+                    {
+                        "text": "10 bar g",
+                        "answer_start": 35,
+                    }
+                ],
+            },
+            {
+                "id": "315",
+                "is_impossible": False,
+                "question": "What cooling systems are used in the ELGi MS 110 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Air cooled inter stage and after stage coolers",
+                        "answer_start": 27,
+                    }
+                ],
+            },
+            {
+                "id": "316",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi MS 110 L B HP model?",
+                "answers": [
+                    {
+                        "text": "2200 kg",
+                        "answer_start": 19,
+                    }
+                ],
+            },
+            {
+                "id": "317",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi MS 110 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Length: 2000 mm, Breadth: 1700 mm, Height: 450 mm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 120 L B PET model is equipped with advanced features for high efficiency and safety.",
+        "qas": [
+            {
+                "id": "318",
+                "is_impossible": False,
+                "question": "What is the operational capacity of the ELGi TS 120 L B PET model?",
+                "answers": [
+                    {
+                        "text": "25.0 HP",
+                        "answer_start": 24,
+                    }
+                ],
+            },
+            {
+                "id": "319",
+                "is_impossible": False,
+                "question": "What are the safety features of the ELGi TS 120 L B PET model?",
+                "answers": [
+                    {
+                        "text": "4 safety valves, safety cut-out switch",
+                        "answer_start": 20,
+                    }
+                ],
+            },
+            {
+                "id": "320",
+                "is_impossible": False,
+                "question": "What is the piston displacement of the ELGi TS 120 L B PET model?",
+                "answers": [
+                    {
+                        "text": "2200 lpm",
+                        "answer_start": 24,
+                    }
+                ],
+            },
+            {
+                "id": "321",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi TS 120 L B PET model?",
+                "answers": [
+                    {
+                        "text": "2400 kg",
+                        "answer_start": 19,
+                    }
+                ],
+            },
+            {
+                "id": "322",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi TS 120 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Length: 2050 mm, Breadth: 1750 mm, Height: 470 mm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+        ],
+    },
+
+
+    {
+        "context": "The ELGi MS 130 L B HP model is built for heavy-duty applications with robust components and high efficiency.",
+        "qas": [
+            {
+                "id": "323",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi MS 130 L B HP model?",
+                "answers": [
+                    {
+                        "text": "25.0 HP",
+                        "answer_start": 18,
+                    }
+                ],
+            },
+            {
+                "id": "324",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi MS 130 L B HP model?",
+                "answers": [
+                    {
+                        "text": "12 bar g",
+                        "answer_start": 35,
+                    }
+                ],
+            },
+            {
+                "id": "325",
+                "is_impossible": False,
+                "question": "What type of air filter is used in the ELGi MS 130 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Heavy duty air filter",
+                        "answer_start": 26,
+                    }
+                ],
+            },
+            {
+                "id": "326",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi MS 130 L B HP model?",
+                "answers": [
+                    {
+                        "text": "2500 kg",
+                        "answer_start": 19,
+                    }
+                ],
+            },
+            {
+                "id": "327",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi MS 130 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Length: 2100 mm, Breadth: 1800 mm, Height: 480 mm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "328",
+                "is_impossible": False,
+                "question": "What is the piston displacement of the ELGi MS 130 L B HP model?",
+                "answers": [
+                    {
+                        "text": "2200 lpm",
+                        "answer_start": 24,
+                    }
+                ],
+            },
+            {
+                "id": "329",
+                "is_impossible": False,
+                "question": "What type of cooling system is used in the ELGi MS 130 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Air cooled",
+                        "answer_start": 21,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 150 L B PET model features advanced technology for enhanced performance and durability.",
+        "qas": [
+            {
+                "id": "330",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi TS 150 L B PET model?",
+                "answers": [
+                    {
+                        "text": "30.0 HP",
+                        "answer_start": 18,
+                    }
+                ],
+            },
+            {
+                "id": "331",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi TS 150 L B PET model?",
+                "answers": [
+                    {
+                        "text": "12 bar g",
+                        "answer_start": 35,
+                    }
+                ],
+            },
+            {
+                "id": "332",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 150 L B PET model?",
+                "answers": [
+                    {
+                        "text": "1600 cfm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "333",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi TS 150 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Length: 2150 mm, Breadth: 1850 mm, Height: 490 mm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "334",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi TS 150 L B PET model?",
+                "answers": [
+                    {
+                        "text": "2700 kg",
+                        "answer_start": 19,
+                    }
+                ],
+            },
+            {
+                "id": "335",
+                "is_impossible": False,
+                "question": "What is the piston displacement of the ELGi TS 150 L B PET model?",
+                "answers": [
+                    {
+                        "text": "2500 lpm",
+                        "answer_start": 24,
+                    }
+                ],
+            },
+            {
+                "id": "336",
+                "is_impossible": False,
+                "question": "What cooling systems are used in the ELGi TS 150 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Air cooled inter stage and after stage coolers",
+                        "answer_start": 27,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 200 L B HP model provides exceptional performance for high-pressure applications.",
+        "qas": [
+            {
+                "id": "337",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi MS 200 L B HP model?",
+                "answers": [
+                    {
+                        "text": "40.0 HP",
+                        "answer_start": 18,
+                    }
+                ],
+            },
+            {
+                "id": "338",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi MS 200 L B HP model?",
+                "answers": [
+                    {
+                        "text": "15 bar g",
+                        "answer_start": 35,
+                    }
+                ],
+            },
+            {
+                "id": "339",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi MS 200 L B HP model?",
+                "answers": [
+                    {
+                        "text": "2000 cfm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "340",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi MS 200 L B HP model?",
+                "answers": [
+                    {
+                        "text": "3000 kg",
+                        "answer_start": 19,
+                    }
+                ],
+            },
+            {
+                "id": "341",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi MS 200 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Length: 2200 mm, Breadth: 1900 mm, Height: 500 mm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "342",
+                "is_impossible": False,
+                "question": "What type of air filter is used in the ELGi MS 200 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Heavy duty air filter with enhanced life",
+                        "answer_start": 26,
+                    }
+                ],
+            },
+            {
+                "id": "343",
+                "is_impossible": False,
+                "question": "What is the piston displacement of the ELGi MS 200 L B HP model?",
+                "answers": [
+                    {
+                        "text": "3000 lpm",
+                        "answer_start": 24,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 250 L B PET model is designed for high-efficiency operations with state-of-the-art technology.",
+        "qas": [
+            {
+                "id": "344",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi TS 250 L B PET model?",
+                "answers": [
+                    {
+                        "text": "50.0 HP",
+                        "answer_start": 18,
+                    }
+                ],
+            },
+            {
+                "id": "345",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi TS 250 L B PET model?",
+                "answers": [
+                    {
+                        "text": "15 bar g",
+                        "answer_start": 35,
+                    }
+                ],
+            },
+            {
+                "id": "346",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 250 L B PET model?",
+                "answers": [
+                    {
+                        "text": "2500 cfm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "347",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi TS 250 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Length: 2250 mm, Breadth: 1950 mm, Height: 510 mm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "348",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi TS 250 L B PET model?",
+                "answers": [
+                    {
+                        "text": "3500 kg",
+                        "answer_start": 19,
+                    }
+                ],
+            },
+            {
+                "id": "349",
+                "is_impossible": False,
+                "question": "What cooling systems are used in the ELGi TS 250 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Air cooled inter stage and after stage coolers",
+                        "answer_start": 27,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 300 L B HP model is designed for heavy-duty performance with advanced safety features.",
+        "qas": [
+            {
+                "id": "350",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi MS 300 L B HP model?",
+                "answers": [
+                    {
+                        "text": "60.0 HP",
+                        "answer_start": 18,
+                    }
+                ],
+            },
+            {
+                "id": "351",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi MS 300 L B HP model?",
+                "answers": [
+                    {
+                        "text": "18 bar g",
+                        "answer_start": 35,
+                    }
+                ],
+            },
+            {
+                "id": "352",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi MS 300 L B HP model?",
+                "answers": [
+                    {
+                        "text": "3000 cfm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "353",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi MS 300 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Length: 2300 mm, Breadth: 2000 mm, Height: 520 mm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "354",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi MS 300 L B HP model?",
+                "answers": [
+                    {
+                        "text": "4000 kg",
+                        "answer_start": 19,
+                    }
+                ],
+            },
+            {
+                "id": "355",
+                "is_impossible": False,
+                "question": "What is the piston displacement of the ELGi MS 300 L B HP model?",
+                "answers": [
+                    {
+                        "text": "3500 lpm",
+                        "answer_start": 24,
+                    }
+                ],
+            },
+            {
+                "id": "356",
+                "is_impossible": False,
+                "question": "What type of air filter is used in the ELGi MS 300 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Heavy duty air filter with enhanced life",
+                        "answer_start": 26,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 400 L B PET model is engineered for exceptional durability and efficiency in high-demand environments.",
+        "qas": [
+            {
+                "id": "357",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi TS 400 L B PET model?",
+                "answers": [
+                    {
+                        "text": "75.0 HP",
+                        "answer_start": 18,
+                    }
+                ],
+            },
+            {
+                "id": "358",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi TS 400 L B PET model?",
+                "answers": [
+                    {
+                        "text": "18 bar g",
+                        "answer_start": 35,
+                    }
+                ],
+            },
+            {
+                "id": "359",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 400 L B PET model?",
+                "answers": [
+                    {
+                        "text": "3500 cfm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "360",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi TS 400 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Length: 2400 mm, Breadth: 2050 mm, Height: 530 mm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "361",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi TS 400 L B PET model?",
+                "answers": [
+                    {
+                        "text": "4500 kg",
+                        "answer_start": 19,
+                    }
+                ],
+            },
+            {
+                "id": "362",
+                "is_impossible": False,
+                "question": "What cooling systems are used in the ELGi TS 400 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Air cooled inter stage and after stage coolers",
+                        "answer_start": 27,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 500 L B HP model offers high-performance capabilities with advanced engineering and safety features.",
+        "qas": [
+            {
+                "id": "363",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi MS 500 L B HP model?",
+                "answers": [
+                    {
+                        "text": "100.0 HP",
+                        "answer_start": 18,
+                    }
+                ],
+            },
+            {
+                "id": "364",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi MS 500 L B HP model?",
+                "answers": [
+                    {
+                        "text": "20 bar g",
+                        "answer_start": 35,
+                    }
+                ],
+            },
+            {
+                "id": "365",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi MS 500 L B HP model?",
+                "answers": [
+                    {
+                        "text": "4000 cfm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "366",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi MS 500 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Length: 2500 mm, Breadth: 2100 mm, Height: 540 mm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "367",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi MS 500 L B HP model?",
+                "answers": [
+                    {
+                        "text": "5000 kg",
+                        "answer_start": 19,
+                    }
+                ],
+            },
+            {
+                "id": "368",
+                "is_impossible": False,
+                "question": "What is the piston displacement of the ELGi MS 500 L B HP model?",
+                "answers": [
+                    {
+                        "text": "4000 lpm",
+                        "answer_start": 24,
+                    }
+                ],
+            },
+            {
+                "id": "369",
+                "is_impossible": False,
+                "question": "What type of air filter is used in the ELGi MS 500 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Heavy duty air filter with enhanced life",
+                        "answer_start": 26,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 600 L B PET model is designed for top performance and reliability in demanding applications.",
+        "qas": [
+            {
+                "id": "370",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi TS 600 L B PET model?",
+                "answers": [
+                    {
+                        "text": "125.0 HP",
+                        "answer_start": 18,
+                    }
+                ],
+            },
+            {
+                "id": "371",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi TS 600 L B PET model?",
+                "answers": [
+                    {
+                        "text": "20 bar g",
+                        "answer_start": 35,
+                    }
+                ],
+            },
+            {
+                "id": "372",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 600 L B PET model?",
+                "answers": [
+                    {
+                        "text": "4500 cfm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "373",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi TS 600 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Length: 2600 mm, Breadth: 2150 mm, Height: 550 mm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "374",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi TS 600 L B PET model?",
+                "answers": [
+                    {
+                        "text": "5500 kg",
+                        "answer_start": 19,
+                    }
+                ],
+            },
+            {
+                "id": "375",
+                "is_impossible": False,
+                "question": "What cooling systems are used in the ELGi TS 600 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Air cooled inter stage and after stage coolers",
+                        "answer_start": 27,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 700 L B HP model offers premium performance and reliability for high-pressure applications.",
+        "qas": [
+            {
+                "id": "376",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi MS 700 L B HP model?",
+                "answers": [
+                    {
+                        "text": "150.0 HP",
+                        "answer_start": 18,
+                    }
+                ],
+            },
+            {
+                "id": "377",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi MS 700 L B HP model?",
+                "answers": [
+                    {
+                        "text": "25 bar g",
+                        "answer_start": 35,
+                    }
+                ],
+            },
+            {
+                "id": "378",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi MS 700 L B HP model?",
+                "answers": [
+                    {
+                        "text": "5000 cfm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "379",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi MS 700 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Length: 2700 mm, Breadth: 2200 mm, Height: 560 mm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "380",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi MS 700 L B HP model?",
+                "answers": [
+                    {
+                        "text": "6000 kg",
+                        "answer_start": 19,
+                    }
+                ],
+            },
+            {
+                "id": "381",
+                "is_impossible": False,
+                "question": "What is the piston displacement of the ELGi MS 700 L B HP model?",
+                "answers": [
+                    {
+                        "text": "5000 lpm",
+                        "answer_start": 24,
+                    }
+                ],
+            },
+            {
+                "id": "382",
+                "is_impossible": False,
+                "question": "What type of air filter is used in the ELGi MS 700 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Heavy duty air filter with enhanced life",
+                        "answer_start": 26,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 800 L B PET model is engineered for high-efficiency and long-lasting performance in demanding environments.",
+        "qas": [
+            {
+                "id": "383",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi TS 800 L B PET model?",
+                "answers": [
+                    {
+                        "text": "200.0 HP",
+                        "answer_start": 18,
+                    }
+                ],
+            },
+            {
+                "id": "384",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi TS 800 L B PET model?",
+                "answers": [
+                    {
+                        "text": "25 bar g",
+                        "answer_start": 35,
+                    }
+                ],
+            },
+            {
+                "id": "385",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 800 L B PET model?",
+                "answers": [
+                    {
+                        "text": "6000 cfm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "386",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi TS 800 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Length: 2800 mm, Breadth: 2250 mm, Height: 570 mm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "387",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi TS 800 L B PET model?",
+                "answers": [
+                    {
+                        "text": "7000 kg",
+                        "answer_start": 19,
+                    }
+                ],
+            },
+            {
+                "id": "388",
+                "is_impossible": False,
+                "question": "What cooling systems are used in the ELGi TS 800 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Air cooled inter stage and after stage coolers",
+                        "answer_start": 27,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi MS 900 L B HP model provides superior performance for high-pressure needs with advanced features and safety.",
+        "qas": [
+            {
+                "id": "389",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi MS 900 L B HP model?",
+                "answers": [
+                    {
+                        "text": "250.0 HP",
+                        "answer_start": 18,
+                    }
+                ],
+            },
+            {
+                "id": "390",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi MS 900 L B HP model?",
+                "answers": [
+                    {
+                        "text": "30 bar g",
+                        "answer_start": 35,
+                    }
+                ],
+            },
+            {
+                "id": "391",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi MS 900 L B HP model?",
+                "answers": [
+                    {
+                        "text": "7000 cfm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "392",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi MS 900 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Length: 2900 mm, Breadth: 2300 mm, Height: 580 mm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "393",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi MS 900 L B HP model?",
+                "answers": [
+                    {
+                        "text": "8000 kg",
+                        "answer_start": 19,
+                    }
+                ],
+            },
+            {
+                "id": "394",
+                "is_impossible": False,
+                "question": "What is the piston displacement of the ELGi MS 900 L B HP model?",
+                "answers": [
+                    {
+                        "text": "6000 lpm",
+                        "answer_start": 24,
+                    }
+                ],
+            },
+            {
+                "id": "395",
+                "is_impossible": False,
+                "question": "What type of air filter is used in the ELGi MS 900 L B HP model?",
+                "answers": [
+                    {
+                        "text": "Heavy duty air filter with enhanced life",
+                        "answer_start": 26,
+                    }
+                ],
+            },
+        ],
+    },
+    {
+        "context": "The ELGi TS 1000 L B PET model is built for exceptional reliability and performance under demanding conditions.",
+        "qas": [
+            {
+                "id": "396",
+                "is_impossible": False,
+                "question": "What is the motor power of the ELGi TS 1000 L B PET model?",
+                "answers": [
+                    {
+                        "text": "300.0 HP",
+                        "answer_start": 18,
+                    }
+                ],
+            },
+            {
+                "id": "397",
+                "is_impossible": False,
+                "question": "What is the maximum working pressure of the ELGi TS 1000 L B PET model?",
+                "answers": [
+                    {
+                        "text": "30 bar g",
+                        "answer_start": 35,
+                    }
+                ],
+            },
+            {
+                "id": "398",
+                "is_impossible": False,
+                "question": "What is the free air delivery of the ELGi TS 1000 L B PET model?",
+                "answers": [
+                    {
+                        "text": "8000 cfm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "399",
+                "is_impossible": False,
+                "question": "What are the dimensions of the ELGi TS 1000 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Length: 3000 mm, Breadth: 2400 mm, Height: 600 mm",
+                        "answer_start": 22,
+                    }
+                ],
+            },
+            {
+                "id": "400",
+                "is_impossible": False,
+                "question": "What is the weight of the ELGi TS 1000 L B PET model?",
+                "answers": [
+                    {
+                        "text": "9000 kg",
+                        "answer_start": 19,
+                    }
+                ],
+            },
+            {
+                "id": "401",
+                "is_impossible": False,
+                "question": "What cooling systems are used in the ELGi TS 1000 L B PET model?",
+                "answers": [
+                    {
+                        "text": "Air cooled inter stage and after stage coolers",
+                        "answer_start": 27,
+                    }
+                ],
+            },
+        ],
+    },
+]
